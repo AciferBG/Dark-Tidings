@@ -38,7 +38,7 @@ There is only one way to uncover the mystery: **Sail to Irphong** and discover w
 - New treasures to recover  
 - Multiple solutions and roleplaying paths  
 - Playable from the start of the game  
-- Available in **English, German, French, Polish, and Chinese**
+- Available in **English, German, French, Polish, Chinese and Spanish**
 
 > To access certain optional content, your party should include at least one spellcasting class—a mage, bard, cleric, druid, shaman, or sorcerer.
 
@@ -69,6 +69,7 @@ Available in:
 - Polish
 - Chinese
 - Russian
+- Spanish
 
 ---
 

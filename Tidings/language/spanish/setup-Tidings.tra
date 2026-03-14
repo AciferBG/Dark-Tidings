@@ -1,0 +1,196 @@
+// setup-tidings tra file
+
+// creatures
+@0 = ~Sirena Oscura~
+@1 = ~Guardián No Muerto~
+@2 = ~Forma de Barro~
+@3 = ~Trol de las Sombras~
+@4 = ~Víbora~
+@5 = ~Elemental de las Sombras~
+@6 = ~Voz Oscura~
+@7 = ~~ [AC#DT21C]
+@8 = ~Varrdig~
+@9 = ~Weird de Tierra~
+@10 = ~Sombra de <PLAYER1>~
+@11 = ~Sombra de <PLAYER2>~
+@12 = ~Sombra de <PLAYER3>~
+@13 = ~Sombra de <PLAYER4>~
+@14 = ~Sombra de <PLAYER5>~
+@15 = ~Sombra de <PLAYER6>~
+@16 = ~Forma Sombría~
+@17 = ~Aspecto de Tharizdun~
+@18 = ~~ [AC#DTTH1]
+@19 = ~~ [AC#DTTH3]
+@20 = ~~ [AC#DTTH1]
+@21 = ~~ [AC#DTTH4]
+@22 = ~~ [AC#DTTH5]
+@23 = ~Jhanex~
+@24 = ~Skara~
+@25 = ~Brokus el Vidente Negro~
+@26 = ~Marinero Ahmer~
+@27 = ~Marinero Bog~
+@28 = ~Caballero de la Muerte~
+@29 = ~Guardián Terrible~
+@30 = ~Vergol~
+@31 = ~Mastín de las Sombras~
+@32 = ~Thalass~
+@33 = ~Alano Nocturno~
+@34 = ~Gracie~
+@35 = ~Darius~
+@36 = ~Vieja Molly~
+@37 = ~Mirmidón de Agua~
+@38 = ~Elemental de Agua~
+@39 = ~Elemental de Agua Menor~
+@40 = ~Masa de Petróleo~
+
+// spells
+@100 = ~Dominación Elemental~
+@101 = ~Aura de Frío~
+@102 = ~Visión Horrible~
+@103 = ~Protección contra el Bien~
+@104 = ~Aparición Terrorífica~
+@105 = ~Mirada Mortal~
+@106 = ~Nube de Niebla~
+@107 = ~Oculto en la Niebla~
+
+@108 = ~Nube de Niebla
+(Alteración)
+
+Nivel: 2
+Alcance: 90 pies
+Duración: 4 asaltos
+Tiempo de lanzamiento: 2
+Área de efecto: radio de 15 pies
+Tirada de salvación: Ninguna
+
+Este conjuro crea una densa niebla de aspecto similar al conjuro de nivel 5 "Nube Aniquiladora". Sin embargo, esta niebla forma una masa ondulante de vapores macabros de color amarillo verdoso, de aproximadamente 40 pies x 20 pies x 20 pies. No es tóxica, pero dificulta la visión. Las criaturas dentro de la niebla quedan ciegas durante la duración del efecto. Además, existe un 50% de probabilidad de que las criaturas dentro de la niebla no puedan ser detectadas y se vuelvan invisibles durante un asalto.~
+
+@109 = ~Explosión~
+@110 = ~Aura Oscura~
+@111 = ~Canto de Sirena~
+@112 = ~Aullido~
+@113 = ~Invocar Elemental de Agua~
+@114  = ~Protección contra el veneno~
+@115  = ~Protección contra el veneno
+(Abjuración)
+
+Nivel: 2
+Alcance: Criatura tocada
+Duración: 10 asaltos
+Tiempo de lanzamiento: 3
+Área de efecto: Criatura tocada
+Tirada de salvación: Ninguna
+
+Al lanzar este conjuro, la criatura elegida obtiene inmunidad a venenos y toxinas administrados por contacto con la piel, ingestión, picadura, mordedura o arma. Las toxinas de otros tipos seguirán afectando a la criatura con normalidad. Cualquier veneno que ya esté en el cuerpo cuando se lance el conjuro tampoco se ve afectado por este hechizo.~
+
+// Script strings
+@1000 = ~¡La ciudad busca aventureros capaces que sean lo bastante marineros como para hacerse a la mar!~
+@1001 = ~¿Acaso no hay aventureros en esta taberna dispuestos a hacer un trabajo para la ciudad?~
+@1002 = ~Usar un objeto~
+@1003 = ~Control de sombras~
+@1004 = ~Este barril contenía aceite inflamable. Al parecer, en el pasado se utilizaba para encender una señal de fuego en el tejado. Si lo deseas, puedes examinar el recipiente más de cerca.~
+@1005 = ~Pones un poco de aceite en una botella.~
+@1006 = ~El barril está vacío ahora.~
+@1007 = ~El barril está casi vacío. No hay forma de encender una baliza con él. Sin embargo, el aceite combustible aún podría ser útil en combate. Podrías recoger el aceite en una botella y llevártelo si quieres.~
+@1008 = ~La sustancia de sombra se desintegra en la nada entre tus manos.~ [EFF_E03]
+@1009 = ~El ladrillo parece encajar perfectamente en los cimientos.~
+@1010 = ~Esta parte de la pared contiene un extraño símbolo que de repente parece moverse, aunque sea muy ligeramente. Sin embargo, a simple vista resulta difícil fijarse en el punto exacto.~
+
+@1011 = ~Sombra de <PLAYER1>~
+@1012 = ~Sombra de <PLAYER2>~
+@1013 = ~Sombra de <PLAYER3>~
+@1014 = ~Sombra de <PLAYER4>~
+@1015 = ~Sombra de <PLAYER5>~
+@1016 = ~Sombra de <PLAYER6>~
+
+@1017 = ~La entrada a la torre está bloqueada por innumerables percebes.~
+@1018 = ~Cuanto más intentas quitar los percebes por la fuerza, más parecen aparecer. Quizá haya otra forma de despejar la entrada.~ [AC#DT01B]
+@1019 = ~La pinza de cangrejo brilla brevemente con una luz mágica y la cohesión de los percebes se derrumba, dejando al descubierto la entrada.~ [AC#DT01C]
+@1020 = ~La entrada a la torre está bloqueada por innumerables percebes. La pinza de cangrejo en tu inventario empieza de repente a moverse, como si quisiera despejar la entrada.~ [AC#TTC]
+
+// Strings in Area ACDT21
+// Earth Info Trigger:
+@1021 = ~Hay mucho barro y tierra esparcidos alrededor de esta piedra rúnica. Como druida, te das cuenta de que la tierra no es de este lugar y emite un aura antinatural.~
+@1022 = ~Hay mucho barro y tierra esparcidos alrededor de esta piedra rúnica. Te das cuenta de que la tierra no es de este lugar.~
+@1023 = ~Hay mucho barro y tierra esparcidos alrededor de esta piedra rúnica.~
+
+// Air Info Trigger:
+@1024 = ~Una gran corriente de aire atraviesa estas extrañas formaciones rocosas hacia la cámara. El aire parece muy puro y concentrado, pero de vez en cuando desprende un olor a podredumbre y azufre.~
+
+// Water Info Trigger
+@1025 = ~Agua procedente de una fuente desconocida se filtra constantemente alrededor de esta piedra rúnica. El agua tiene un color extraño y huele a contaminación.~
+
+// Fire Info Trigger
+@1026 = ~De esta piedra rúnica emana un calor antinatural.~
+
+// Runestone Info Trigger
+@1030 = ~En esta piedra rúnica hay grabada una larga inscripción en lengua común. Si lo deseas, puedes leerla.~
+
+@1031 = ~"Y el Ojo Elemental Ancestral dio origen a cuatro hijos.
+El primero quiso devorarlo todo.
+Para extinguirlo creó al segundo, pero este no podía tomar forma.
+Entonces creó al tercero, pero este no podía moverse.
+Finalmente creó al cuarto, pero se evaporó en la nada.
+Entonces el Dios Oscuro comprendió la imperfección de todas las cosas y juró restaurarlo todo a su estado original de oscuridad total."~
+
+@1032 = ~La piedra rúnica ha sido dañada por la explosión de energía mágica hasta tal punto que la inscripción ya no puede descifrarse.~
+
+// Shadowstone Info Trigger
+@1035 = ~Un aura impía emana de esta extraña piedra. Cerca se oye un murmullo y susurro incomprensibles, y la luz parece refractarse en sus bordes hacia el negro más profundo.~
+@1036 = ~Al desactivar las cuatro runas, la cámara se vuelve más fría e incómoda. Ahora emana un susurro perceptible de la piedra.~
+@1037 = ~Un aura ominosa continúa emanando de esta extraña piedra.~
+
+/// Fire Sigil Trigger
+@1040 = ~Un extraño signo está grabado en esta piedra. Irradia un gran calor. Sientes como si pudieras tocar el signo para cambiar su estado.~
+@1041 = ~Tocas la marca con cuidado. Un calor abrasador recorre tu cuerpo, pero entonces la runa se apaga y queda fría.~
+@1042 = ~La runa está apagada y ya no parece tener ninguna función.~
+
+// Water Sigil Trigger
+@1050 = ~Un extraño signo está grabado en esta piedra. Parece muy húmedo. Sientes como si pudieras tocar el signo para cambiar su estado.~
+@1051 = ~Al tocar el signo, una brisa húmeda recorre la sala. Parece que hay que tocar los signos en cierto orden... y has elegido mal...~
+@1052 = ~Tocas el signo con cuidado. El agua que cubría la runa desaparece. Parece que has desactivado el signo.~
+@1053 = ~La runa se ha secado y ya no parece tener ninguna función.~
+
+// Earth Sigil Trigger
+@1060 = ~En esta piedra está grabado un signo con forma de espiral irregular. Está cubierto de barro que brilla de forma extraña. Sientes como si pudieras tocar la marca para cambiar su estado.~
+@1061 = ~Al tocar el signo, una fuerte vibración recorre la sala. Parece que hay que tocar los signos en cierto orden... y has elegido mal...~
+@1062 = ~Tocas la marca con cuidado. El barro que cubría la runa desaparece. Parece que has desactivado la marca.~
+@1063 = ~La runa está limpia y ya no parece tener ninguna función.~
+
+// Air Sigil Trigger
+@1070 = ~En esta piedra está grabado un signo con forma de espiral irregular. Sientes como si pudieras tocar el signo para cambiar su estado.~
+@1071 = ~Al tocar la marca, gases venenosos amarillentos brotan del subsuelo. Parece que hay que tocar los signos en cierto orden... y has elegido mal...~
+@1072 = ~Tocas el signo con cuidado. Parece que has desactivado el signo.~
+@1073 = ~La runa está desactivada y ya no parece tener ninguna función.~
+
+// Ritual in Area ACDT22
+@1080 = ~Has lanzado el primer conjuro del ritual.~
+@1081 = ~Has lanzado el segundo conjuro del ritual.~
+@1082 = ~Has lanzado el tercer conjuro del ritual.~
+
+@1085 = ~La magia que has conjurado estalla con una explosión y la piedra se hace añicos en mil fragmentos. De repente, todo queda en silencio. La cámara parece mucho más luminosa ahora.~
+
+// Crystal chamber ACDT13
+
+@1090 = ~Entre este aparato de cristal ves una cavidad, pero está vacía. Lo más probable es que haya que colocar algún objeto allí para activar la baliza.~
+@1091 = ~Ninguno de los objetos de tu inventario parece adecuado para encender la baliza.~
+@1092 = ~Colocas el Cristal Luminoso en la cavidad, y a través de sus múltiples facetas la luz se refleja mil veces y se proyecta hacia arriba, al aire libre. El gran cristal en lo alto del tejado debería volver a brillar ahora con una luz intensa visible desde lejos.~
+@1093 = ~Si colocas el cristal en la cavidad, ya no podrás retirarlo después. Deberías pensar bien qué hacer a continuación.~
+
+@1098 = ~Espesas franjas de la sombra más oscura bloquean tu visión. Si la salida está por aquí, ahora mismo no puedes verla.~
+
+// cutscene in ACDT01
+@1100 = ~¡Mirad! ¡Es una niña pequeña!~
+@1101 = ~¡Pero qué...!~
+@1102 = ~¡Por Baelros! ¡Es una bruja marina!~
+
+// Oil barrels in ACDT15
+
+@1504 = ~Este barril contenía aceite inflamable. Al parecer, en el pasado se utilizaba para encender una señal de fuego. Si lo deseas, puedes examinar el recipiente más de cerca.~
+@1505 = ~Pones un poco de aceite en una botella.~
+@1506 = ~El barril está vacío ahora.~
+@1507 = ~El barril está casi vacío. No hay forma de encender una señal de fuego con él. Sin embargo, el aceite combustible aún podría resultar útil en combate.~
+
+// New for v2.2
+
+@1510 = ~Presagios Oscuros~

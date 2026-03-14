@@ -1,0 +1,111 @@
+// Journal Entries
+
+// Quest start
+
+@10000 = ~Presagios Oscuros
+
+He sido enviado a la isla de Irphong para buscar la causa de la extinción del fuego mágico del faro. Un mago llamado Thalass me espera en el distrito de los Muelles, junto al pequeño faro, con una tripulación preparada para emprender el corto viaje hasta la isla.~
+
+@10001 = ~Presagios Oscuros
+
+Poco después de desembarcar en la isla de Irphong fuimos atacados por un grupo de troles marinos, aparentemente liderados por una bruja marina. Como todos los marineros han muerto, tendré que encontrar otra forma de abandonar la isla. Solo un marinero experto sería capaz de conducir la barca intacta a través de los bajíos que rodean la isla y regresar a Athkatla. Sin embargo, si consiguiera que la baliza volviera a funcionar, quizá otros barcos podrían advertir mi presencia y llevarme lejos de la isla. Por lo tanto, debo intentar que la baliza mágica vuelva a brillar. Pero primero debo averiguar por qué se apagó la luz.~
+
+@10002 = ~Presagios Oscuros
+
+¡Qué éxito! La luz mágica del faro ha hecho que un grupo de marineros de un barco que pasaba cerca desembarque en la isla. Me llevarán de vuelta a Athkatla y me esperan junto a la barca con la que llegué.~
+
+@10003 = ~Presagios Oscuros
+
+He regresado a Athkatla. Ahora debería dirigirme a la taberna "Regalo del Mar" y reclamar mi bien merecida recompensa al mago Thalass.~
+
+@10004 = ~Presagios Oscuros
+
+Mi aventura en la isla de Irphong termina con la recompensa que recibí del mago Thalass. ¡No volveré a poner un pie en una isla maldita en mucho tiempo!~
+
+@10010 = ~Acceso a la torre
+
+La entrada al faro de Irphong está bloqueada por numerosos percebes. Debo encontrar algo que me permita entrar, ya que no puedo usar magia ni armas para abrirme paso.~
+
+@10011 = ~La pinza de cangrejo
+
+En poder de la líder de las sirenas encontré la pinza de un cangrejo gigante. Aunque aún no sé para qué sirve, estoy seguro de que la sirena no guardaba un objeto así sin motivo.~
+
+@10012 = ~Acceso a la torre
+
+Creo que tengo algo que podría ayudarme a abrir la entrada de la torre: la pinza de un cangrejo gigante.~
+
+@12000 = ~El «otro lado»
+
+Encontré una nota de un extraño cultista dentro del faro que mencionaba que existía un «otro lado» dentro de la torre. La nota también hablaba de un «ladrillo de sombra» y de un ritual. Debería estar atento a más pistas que expliquen de qué se trata todo esto.~
+
+@12001 = ~El «otro lado»
+
+En el sótano del faro encontré un ladrillo hecho de sombra. Parece que pertenece a algún lugar de una pared.~
+
+@12002 = ~El «otro lado»
+
+He encontrado un buen lugar para colocar el ladrillo de sombra. Es un buen comienzo en mi búsqueda del «otro lado».~
+
+@12003 = ~El «otro lado»
+
+Encontré un viejo pasadizo dentro del faro que contiene una especie de portal. ¿Podría llevar este portal al «otro lado»? Solo hay una forma de averiguarlo.~
+
+@12004 = ~El «otro lado»
+
+Atravesé el portal y llegué a un extraño universo paralelo y sombrío de la isla de Irphong.~
+
+@13000 = ~El Cristal Luminoso
+
+En la planta superior del faro, un dispositivo parece controlar la iluminación del faro. Pero el cristal responsable de ello ha desaparecido. Si logro encontrarlo, podré reactivar la baliza.~
+
+@13001 = ~El Cristal Luminoso
+
+Encontré el Cristal Luminoso en un antiguo altar del Plano de las Sombras. Ahora debo colocarlo de nuevo en la cavidad del faro, en la planta superior.~
+
+@13010 = ~El Cristal Luminoso
+
+El Cristal Luminoso ha vuelto a su lugar correspondiente. Si lo deseo, puedo ver el resplandor del faro desde el tejado. Con suerte, los barcos que pasen cerca pronto se darán cuenta de mi presencia para que pueda abandonar la isla.~
+
+@18000 = ~El vigilante no muerto
+
+Me encontré con un fantasma no muerto en una pequeña cámara en la parte noreste de la isla de Irphong, que afirmaba haber sido el último guardián del faro de la isla. No dejaba de repetir que debía encontrarme con él «en el otro lado», sea lo que sea que signifique eso.~
+
+@18001 = ~El vigilante no muerto
+
+Me encontré con un fantasma no muerto en un oscuro reino alternativo de la isla de Irphong que afirmaba haber sido el último guardián del faro de la isla. Me pidió que recuperara el cristal del faro del templo de un dios maligno situado al este de la zona y que después volviera a buscarlo.~
+
+@18002 = ~El vigilante no muerto
+
+Volví a encontrarme con el guardián no muerto del faro de la isla en un oscuro reino alternativo de la isla de Irphong. Me pidió que recuperara el Cristal Luminoso del faro del templo de un dios maligno situado al este de la zona y que después volviera a buscarlo.~
+
+@18010 = ~El ritual
+
+Tras recuperar el Cristal Luminoso del templo, el vigilante no muerto volvió a aparecer. Me pidió que realizara un ritual en el sótano bajo el faro, donde se encuentra esta extraña piedra, para detener la magia negra que emana de este lugar. Para ello también debo usar el cristal. Por desgracia, no se sabe si el cristal sobrevivirá al ritual. Como el cristal también se utiliza para hacer brillar de nuevo el faro, debo pensar cuidadosamente si merece la pena correr el riesgo. Después de todo, hacer que el faro vuelva a brillar será la única forma de que otros barcos reparen en mí y pueda abandonar la isla. El fantasma también mencionó que podría volver a encontrarme con él en la isla de Irphong, en su cámara situada al este de la isla, ya que existe en ambos planos al mismo tiempo.~
+
+@18011 = ~El ritual
+
+Después de recuperar el Cristal Luminoso del templo apareció un vigilante no muerto que afirmaba haber sido el último guardián del faro de la isla. Me pidió que realizara un ritual en el sótano bajo el faro, donde se encuentra esta extraña piedra, para detener la magia negra que emana de este lugar. Para ello también debo usar el cristal. Por desgracia, no está claro si el cristal sobrevivirá al ritual. Como el cristal también sirve para hacer brillar de nuevo el faro, debo pensar cuidadosamente si merece la pena correr el riesgo. Porque el resplandor del faro será la única forma de atraer la atención de otros barcos para que pueda abandonar la isla. El fantasma también mencionó que podría encontrarlo en la isla de Irphong, en una cámara situada al este de la isla, ya que existe en ambos planos al mismo tiempo.~
+
+@18012 = ~El ritual
+
+Debo decidir si realizar el ritual en el sótano del faro con la ayuda del Cristal Luminoso o simplemente colocar el Cristal Luminoso en la cavidad y abandonar la isla. Por desgracia, no se sabe si el cristal será destruido por el ritual. Como el cristal también se utiliza para hacer brillar de nuevo el faro, debo pensar cuidadosamente si merece la pena correr el riesgo. El resplandor del faro será la única forma de llamar la atención de otros barcos para que pueda abandonar la isla.~
+
+@18013 = ~El ritual
+
+He colocado el cristal en la cavidad sin completar el ritual en el sótano. Como el cristal ya no puede retirarse, me resulta imposible realizar el ritual. Debería buscar una forma de abandonar la isla.~
+
+@18014 = ~El ritual
+
+He terminado el ritual. Con suerte podré recuperar el Cristal Luminoso para colocarlo en la cavidad del faro en la planta superior.~
+
+@18015 = ~El ritual
+
+El Cristal Luminoso parece haber sobrevivido al ritual sin sufrir daño alguno. Ahora debo colocarlo en la cavidad del faro en la planta superior.~
+
+@18016 = ~El ritual
+
+He conseguido tanto neutralizar el lugar impío bajo el faro como volver a colocar el cristal en la cavidad del faro. Con ello, las sombras oscuras que se cernían sobre la isla deberían desaparecer para siempre.~
+
+
+ 
+

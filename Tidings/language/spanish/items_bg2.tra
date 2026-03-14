@@ -1,0 +1,260 @@
+@2000 = ~Anillo de la Sangre Más Pura~
+@2001 = ~Alcanzar la condición de liche es una empresa peligrosa, algo que Arcturus de Shoonach, un aspirante a liche, conocía bien. Para protegerse contra la letal poción necesaria para la transformación, forjó un anillo en el que vinculó la sangre de tres gigantes de las tormentas y lo adornó con un rubí tallado por un joyero enano. A pesar de sus esfuerzos, Arcturus fracasó, y poco después de su muerte un sacerdote de Kelemvor reclamó el anillo de su mano sin vida.  
+
+Aunque no salvó a su creador, el anillo resultó ser de gran valor para la Iglesia de Ilmater, pues ayudó a sanar a enfermos y moribundos. Hoy en día sigue siendo un poderoso símbolo de pureza, salud y vitalidad en todo Faerûn, codiciado por muchos... aunque nadie se ha atrevido a utilizarlo de nuevo para alcanzar la condición de liche.
+
+ESTADÍSTICAS:
+
+– Constitución: +1~
+
+@2002 = ~Capa Negra~
+@2003 = ~Velo de oscuridad asfixiante~
+@2004 = ~Esta capa es oscura y siniestra.~
+@2005 = ~Esta capa está tejida con un lino grueso y antiguo que parece extrañamente deshilachado en los bordes, como si el contorno de la prenda se estuviera desvaneciendo de este mundo. Ofrece protección contra muchos tipos de daño elemental y ataques convencionales, pero el portador debe pagar un alto precio por ello: si <PRO_HESHE> falla una tirada de salvación contra muerte al ponerse la capa, <PRO_HESHE> muere en el intento. Si la tirada tiene éxito, aun así pierde parte de su fuerza vital.
+
+La capa huele a tierra húmeda y sombría, y parece ser muy antigua; quizá se remonte a una época en la que incluso los dioses de los Reinos aún eran jóvenes y otras entidades más primordiales gobernaban Toril. La historia de la prenda es tan oscura como la del propio portador de la capa.
+
+ESTADÍSTICAS:
+
+Habilidades al equiparse:
+– Clase de Armadura: +2
+– Tiradas de salvación: +1
+– Resistencia a la electricidad: +30%
+– Resistencia al frío: +30%
+– Resistencia al fuego: +30%
+– Puntos de golpe: -10
+– El portador debe superar una tirada de salvación contra muerte al ponérsela; de lo contrario, <PRO_HESHE> muere al instante.
+
+Peso: 3~
+@2006 = ~Flecha de Oscuridad~
+@2007 = ~Cuando esta flecha impacta a un enemigo, lo deja ciego durante un asalto si falla una tirada de salvación contra conjuros.
+
+ESTADÍSTICAS:
+
+Habilidades de combate:
+– El objetivo debe superar una tirada de salvación contra conjuros o queda cegado durante 1 asalto
+
+Daño: 1d6 (proyectil)
+Lanzador: Arco
+
+Peso: 0~
+
+@2008 = ~Flecha de Enfermedad~
+@2009 = ~Estas flechas están cubiertas con la sangre coagulada de una criatura desconocida. Si un ser es alcanzado por una de ellas, queda afectado por una enfermedad.
+
+ESTADÍSTICAS:
+
+Habilidades de combate:
+– El objetivo queda enfermo y por ello se mueve más lentamente durante 4 asaltos
+
+Daño: 1d6 (proyectil)
+Lanzador: Arco
+
+Peso: 0~
+
+@2010 = ~Perla Negra~
+@2011 = ~Las perlas se forman a partir de varias capas de aragonito que se desarrollan en las ostras y otros moluscos alrededor de un grano de arena u otro objeto extraño. Las perlas poseen un magnífico brillo sedoso. Esta perla es una perla negra, una de las variedades más raras y por ello más valiosas. No posee propiedades mágicas, pero puede venderse por un buen precio.~
+
+/*
+@2012 = ~Poción de disipar magia~
+@2013 = ~Al consumir esta poción, todos los efectos mágicos sobre el usuario se disipan al instante, sin importar si son beneficiosos o perjudiciales.~
+*/
+
+@2014 = ~Poción de curación envenenada~
+@2015 = ~Esta poción parece, huele y sabe como una poción de curación u otra poción beneficiosa. Sin embargo, en realidad se trata de un veneno disfrazado mediante magia de ilusión. Un conjuro de Identificar revela su verdadera naturaleza. Si la bebes de todos modos, sufrirás daño por veneno cada segundo durante tres asaltos.~
+
+@2016 = ~Ladrillo de sombras~
+@2017 = ~Este ladrillo está impregnado de la negrura más profunda. Sus bordes parecen desvanecerse. Se siente frío al tacto y es ligero como una pluma.~
+@2018 = ~El Libro de los Rituales~
+@2019 = ~Este libro, cuya cubierta está adornada con un brillante sol, parece antiguo pero bien conservado. Te fue confiado por un guardián de faro no muerto, quien te encargó usarlo para sellar un portal al Plano de las Sombras situado bajo el faro.
+
+El pasaje esencial sobre el ritual dice:
+«Para expulsar a Tharizdun, el Ojo Elemental Anciano, del mundo de la luz, un practicante de magia arcana o divina debe seguir estos pasos en el lugar corrompido bajo el faro.
+
+Coloca el Cristal Luminoso bajo el altar profano y haz que el usuario de magia se sitúe en el centro de la sala, sin importar si <PRO_HESHE> es un mago o un sacerdote. El primer conjuro que el lanzador debe utilizar es “Protección contra el Mal”, para mantener alejados los elementos malignos del lugar. El segundo conjuro que debe lanzarse es “Vista Verdadera”, para eliminar las ilusiones malignas de Tharizdun. Como conjuro final, el ritualista debe lanzar “Disipar Magia” para romper los vínculos mágicos que alimentan de energía ese lugar profano.
+
+Realizar el ritual silenciará para siempre los oscuros susurros de Tharizdun bajo el faro. El Cristal Luminoso puede destruirse durante el proceso, pero tal es el sacrificio necesario para desterrar una vez más este oscuro mal del mundo de la luz.»~
+
+@2020 = ~La Última Era de Oscuridad Eterna~
+@2021 = ~Este tomo está marcado con una peculiar espiral dentada y lleno de runas arcanas y palabras de lenguas antiguas ya olvidadas.
+Solo unas pocas líneas están escritas en una escritura y lengua que puedes comprender:
+
+«El Finalizador, el Ojo Elemental Anciano, el Dios Oscuro: estos y otros nombres hablan de nuestro exaltado Maestro, que ha aguardado su momento durante mil años, aprisionado por fuerzas envidiosas. Ahora, mientras dioses menores como Tyr y Lathander temen su regreso, nos corresponde a nosotros desmantelar su orden y anunciar la era final. El fin se acerca: nuestro deber sagrado es claro. Traer el reinado de la Oscuridad Eterna; llevar a la ruina las construcciones de los falsos dioses.»~
+
+@2022 = ~Casco de Cultista~
+@2023 = ~Este casco no es tanto una protección como el tocado de un culto que te es desconocido. Está ricamente decorado y posee un color púrpura oscuro. En el borde del casco hay un fino bordado. En lengua común dice: «Los fieles deben llevar el casco para que el camino del Ojo Elemental Anciano pueda mostrárseles.»~
+@2024 = ~Este casco no es tanto una protección como el tocado de un culto que te es desconocido. Está ricamente decorado y posee un color púrpura oscuro.~
+@2025 = ~Nota~
+@2026 = ~Tu tarea es recoger a los náufragos que han sido hechizados por las sirenas. Escoltarlos hasta el templo donde los sirvientes del sacrificio están esperando. Las sirenas y los trolls parecen verse afectados por este entorno alternativo y poco a poco se transforman en versiones sombrías de sí mismos. Tal vez incluso nos sean de mayor utilidad de esta manera.
+— Soñador de la Perdición Vergol.~
+
+@2027 = ~Nota de Brokus~
+@2028 = ~Blackseer Brokus: a ti, como uno de mis sirvientes más leales, te confío la tarea más importante de nuestra misión sagrada. Estoy cruzando al otro lado con los demás Blackseers. Asegúrate de que los trolls, las sirenas y la bruja sigan de nuestro lado. Los náufragos supervivientes deben ser hechizados por las sirenas lo antes posible y llevados por ti al otro lado como sacrificios.
+
+Si intrusos llegan a la isla, sella el pasaje para evitar que descubran la verdad y hazles creer que una bruja marina está detrás de todo.
+
+Así que, si tienes que sellar el pasaje de nuevo, haz lo siguiente:
+Destruye la piedra de sombras para cerrar el pasaje secreto. Más tarde podrás generar fácilmente una nueva piedra de sombras en la cámara ritual. Cierra con llave la puerta del sótano y esconde la llave, preferiblemente en tu cofre. Haz que la bruja selle la torre desde el exterior con su vil magia. ¡No olvides activar las trampas de la torre! Cuando el peligro haya pasado, tendrás que realizar el ritual otra vez para obtener una nueva piedra de sombras. Recuerda que debes llevar tu casco de cultista para ver el contorno de la puerta secreta.
+
+Destruye este mensaje después de leerlo.
+— Soñador de la Perdición Vergol~
+@2029 = ~Este es nuestro credo, nuestro juramento más profundo:
+«La luz debe extinguirse, la perfección destruida, el orden disuelto y el espíritu desmembrado.»
+
+Entonces, en algún lugar de la nada donde ni el tiempo ni el espacio existen, el poderoso ser se agita y lucha por despertar. Entonces llegará la hora de la más negra de todas las oscuridades.~
+
+@2030 = ~Cuando hay mucha luz, también hay mucha sombra.~
+@2031 = ~Pinza de cangrejo~
+@2032 = ~Estas pinzas alteradas mágicamente pertenecieron en su día a un cangrejo gigante. Con la ayuda de este objeto debería ser posible abrir zonas cerradas por todo tipo de vida marina.~
+@2033 = ~Sustancia negra~
+@2034 = ~Sustancia de sombra~
+@2035 = ~Los bordes de esta sustancia quebradiza parecen desvanecerse y perderse en las sombras.~
+@2036 = ~Estos fragmentos son restos de materia de sombra. Las migajas parecen haber formado parte de un objeto más grande.~
+@2037 = ~Dentadura~
+@2038 = ~La Última Carcajada~
+@2039 = ~Esta dentadura parece haber sido tallada a partir de huesos de animales.~
+@2040 = ~Esta es la dentadura de Ormond Dante, un famoso pirata que recorrió la Costa de la Espada hace unos cien años. Gravemente marcado por el escorbuto, en sus últimos años encargó estos dientes, tallados en hueso de ballena, a una manufactura gnómica. El mago de su barco añadió algunos encantamientos a la dentadura, aunque ni siquiera él pudo hacer nada contra el aliento rancio y el aspecto espantoso de su capitán. El pirata era conocido por su estruendosa carcajada en las situaciones más desesperadas, así que no resulta sorprendente que su dentadura tenga la capacidad de poner nerviosos a los enemigos que la escuchen durante un tiempo.
+
+ESTADÍSTICAS:
+
+Habilidades al equiparse:
+– Carisma: -2
+– El portador obtiene inmunidad al encantamiento y al miedo
+
+Carcajada de Ormond (una vez al día): todos los enemigos dentro del alcance de oído reciben un penalizador de -2 a todas sus tiradas (incluyendo GAC0 y tiradas de salvación) durante 5 asaltos. No hay tirada de salvación contra los efectos de este poder.
+
+Peso: 1~
+
+@2041 = ~Llave del cofre de Brokus~
+@2042 = ~Esta llave está elaboradamente trabajada y parece pertenecer a un cofre.~
+@2043 = ~Llave del sótano~
+@2044 = ~Una llave verdosa que parece haber estado expuesta a la humedad durante mucho tiempo.~
+@2045 = ~Diario de Brokus~
+@2046 = ~
+3 de Tarsakh de 1369
+¡Irphong es nuestra! Hemos desembarcado en la isla. Una tribu de sirenas se había instalado en las cuevas, pero juraron lealtad a nuestro señor oscuro después de que matáramos a dos de ellas. Aún pueden resultarnos útiles. Algunos necios se lanzaron de inmediato a buscar tesoros, como si quedara algo después de todos los siglos que la isla ha permanecido deshabitada.
+
+12 de Tarsakh
+El Soñador de la Perdición Vergol ha convocado a un grupo de trolls marinos a la isla para mantener alejados a los piratas. La bruja también ha llegado y se ha instalado en la parte alta de la isla. No debemos mirarla o nos alcanzará su maldición de debilidad. Su brebaje es bastante útil. La mayor parte del tiempo deambula por la isla con la forma de una niña pequeña. Todos buscan desesperadamente la entrada al otro lado, pero no hemos encontrado nada.
+
+20 de Tarsakh
+¡Hemos encontrado el portal al otro lado! ¡Ha estado ahí todo el tiempo, delante de nuestros ojos! Los antiguos cultistas se tomaron muchas molestias para ocultarlo de miradas indiscretas. Si colocas el objeto adecuado en el escondite y llevas el casco de nuestro culto, el pasaje aparecerá claramente ante ti.
+
+1 de Mirtul
+Los demás han tomado el Cristal Luminoso del receptáculo del faro, en el piso superior, y han cruzado al otro lado con él a través del portal. Cualquier náufrago que llegue ahora debe ser llevado allí por mí como sacrificio. Uno de cada tres es para los trolls, la bruja y las sirenas. Debo esperar aquí y permanecer oculto. Que los barcos que pasen crean que la bruja marina y las sirenas están detrás de todo.
+
+3 de Mirtul
+El Soñador de la Perdición Vergol sigue ocupado completando el ritual. ¡Necesitamos más víctimas! Los barcos ya están evitando la isla y todos empiezan a ponerse nerviosos...
+
+4 de Mirtul
+Siento que la locura se apodera de mí. ¿Es este el contacto de nuestro largamente esperado dios? No lo sé...
+~
+@2047 = ~Las visiones de Vergol~
+@2048 = ~El Encadenado, el Dios Aprisionado, el Oscuro...
+... ¡me llama!
+
+Al principio mis sueños eran confusos y poco claros, pero ahora es como si una sombra hubiera caído de mis ojos. ¡Qué apropiado! Por fin nuestra célula de culto tiene una utilidad. Existe una isla solitaria, muy al oeste de nuestra patria, Chessenta. Allí, en tiempos antiguos, se rendía culto a nuestro señor Tharizdun.
+
+En generaciones posteriores su culto fue prohibido, y los numerosos sacrificios ofrecidos a nuestro Señor por los náufragos frente a la isla se agotaron. Los necios incluso colocaron un faro mágico en la isla para detener al Señor de las Sombras.
+
+La misión que nuestro Señor nos encomendó en mis sueños es sencilla: retirar el cristal mágico del faro, desellar la antigua entrada al plano de nuestro Señor, ofrecer a todos los náufragos como sacrificios al Ojo Elemental Anciano, profanar así el faro y, finalmente, romper las cadenas que impiden a nuestro Dios regresar al mundo.
+
+Entonces, por fin, la mirada del Ojo Elemental Anciano, nuestro señor Tharizdun, volverá a cubrirlo todo con oscuridad eterna y nos asegurará a nosotros, sus servidores más fieles, un lugar a su lado.
+
+~
+
+@2049 = ~Símbolo sagrado~
+@2050 = ~Símbolo sagrado de Vergol~
+@2051 = ~Esto parece ser algún tipo de símbolo sagrado de un dios que te es desconocido.~
+@2052 = ~El símbolo representa a una entidad llamada «Tharizdun». Muchas leyendas giran en torno a este ser, que fue encerrado en una prisión desconocida antes de la creación del mundo tal como lo conoces. Sin embargo, aspectos más débiles de Tharizdun parecen persistir en diversas partes del mundo, intentando tentar a sus adoradores para que liberen al verdadero Tharizdun.~
+
+@2053 = ~Cuenco de bronce~
+@2054 = ~Este cuenco está hecho de bronce. Hay ligeras manchas en los bordes, como si se hubiera llenado de agua innumerables veces.~
+@2055 = ~Este cuenco mágico posee un gran poder, pues concede a su dueño cierto grado de control sobre criaturas mágicas conocidas como elementales de agua. Como ocurre con todas las fuerzas elementales, este control puede dirigirse tanto hacia el bien como hacia el mal, hacia la ley o el caos. Por ello, sería prudente actuar con cautela al tratar con tales criaturas.
+
+ESTADÍSTICAS:
+
+– Habilidad especial: invoca un elemental de agua una vez al día durante cinco minutos. El poder del elemental de agua invocado depende del nivel del lanzador:
+– Nivel 8 a 11: se invoca un elemental de agua menor con 8 DG.
+– Nivel 12 a 15: se invoca un elemental de agua con 12 DG.
+– Nivel 16 o superior: se invoca un gran elemental de agua con 16 DG.~
+@2056 = ~Cristal Luminoso~
+@2057 = ~Este es el Cristal Luminoso que activa el resplandor mágico en el piso superior del Faro de Irphong. Sus orígenes se han perdido con el paso de los milenios. Parece ser más antiguo que los primeros imperios humanos de las Tierras Centrales. Su uso como fuente de luz para el Faro de Irphong se remonta a la época del Imperio de Shoon, cuando la gente intentaba resolver la mayoría de los problemas de la vida mediante la magia.~
+
+@2058 = ~Nube de niebla~
+@2059 = ~Nube de niebla
+(Alteración)
+
+Nivel: 2
+Alcance: 90 pies
+Duración: 4 asaltos
+Tiempo de lanzamiento: 2
+Área de efecto: radio de 15 pies
+Tirada de salvación: ninguna
+
+Este conjuro crea una densa niebla similar en apariencia al conjuro de nivel 5 «Nube aniquiladora». Sin embargo, esta niebla forma una masa ondulante de vapores macabros de color amarillo verdoso, de 40 pies x 20 pies x 20 pies, que no son tóxicos pero dificultan la visión. Las criaturas dentro de la niebla quedan ciegas mientras dure el efecto. Además, existe un 50% de probabilidad de que las criaturas dentro de la bruma sean indetectables y se vuelvan invisibles durante un asalto.~
+
+@2060 = ~Hoja de Agua +2~
+@2061 = ~Esta espada larga posee una forma fluida y curvada. En su pomo hay un empuñadura cuadrada de color azul verdoso que, al igual que el resto de la hoja, indica su conexión elemental con el elemento del agua. Cuando se sostiene en la mano, el portador queda protegido contra el frío. Además, una vez al día puede lanzar desde la hoja una descarga de agua pura que inflige 3d6 puntos de daño contundente a cualquiera que se encuentre en el área de efecto dentro de un alcance de 50 pies.
+
+ESTADÍSTICAS:
+
+Habilidades al equiparse:
+– Resistencia al frío: +40%
+– Puede liberar una descarga de agua una vez al día que inflige 3d6 puntos de daño en un área en forma de cono de 50 pies.
+
+GAC0: +2
+Daño: 1d8 +2
+Tipo de daño: cortante
+Factor de velocidad: 3
+Tipo de competencia: Espada larga
+Tipo: Una mano
+
+Requiere:
+ 5 de Fuerza
+
+Peso: 3
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago~
+
+@2062 = ~Protección contra veneno~
+@2063 = ~Protección contra veneno
+(Abjuración)
+
+Nivel: 2
+Alcance: Criatura tocada
+Duración: 10 asaltos
+Tiempo de lanzamiento: 3
+Área de efecto: Criatura tocada
+Tirada de salvación: ninguna
+
+Mediante este conjuro, la criatura elegida obtiene inmunidad a venenos y toxinas administrados por contacto con la piel, ingestión, picadura, mordedura o arma. Las toxinas de otros tipos continúan afectando a la criatura con normalidad. Cualquier veneno que ya se encuentre en el cuerpo cuando se lanza el conjuro tampoco se ve afectado por este hechizo.~
+@2064 = ~Hoja de Agua +3~
+@2065 = ~Esta espada larga posee una forma fluida y curvada. En su pomo hay una empuñadura cuadrada de color azul verdoso que, al igual que el resto de la hoja, indica su conexión elemental con el elemento del agua. Cuando se sostiene en la mano, el portador queda protegido contra el frío. Además, una vez al día puede lanzar desde la hoja una descarga de agua pura que inflige 4d6 puntos de daño contundente a cualquiera que se encuentre en el área de efecto dentro de un alcance de 50 pies.
+
+ESTADÍSTICAS:
+
+Habilidades al equiparse:
+– Resistencia al frío: +50%
+– Puede liberar una descarga de agua una vez al día que inflige 4d6 puntos de daño en un área en forma de cono de 50 pies.
+– Si un sahuagin es golpeado por la hoja, queda aturdido durante 1 asalto.
+
+GAC0: +3, +5 contra criaturas acuáticas como kuo-toa y sahuagin
+Daño: 1d8 +3, +5 contra criaturas acuáticas como kuo-toa y sahuagin
+Tipo de daño: cortante
+Factor de velocidad: 3
+Tipo de competencia: Espada larga
+Tipo: Una mano
+
+Requiere:
+ 5 de Fuerza
+
+Peso: 3
+
+No utilizable por:
+ Druida
+ Clérigo
+ Mago~

@@ -109,6 +109,11 @@ LANGUAGE ~Russian (by Origanum8 and scheele)~
          ~Tidings/language/russian/setup-Tidings.tra~
          ~Tidings/language/russian/Tidings-journal.tra~
 
+LANGUAGE ~Espanol (Por XsidoGamer)~
+         ~spanish~
+         ~Tidings/language/spanish/setup-Tidings.tra~
+         ~Tidings/language/spanish/Tidings-journal.tra~
+
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 // Dark Tidings V 2.9
