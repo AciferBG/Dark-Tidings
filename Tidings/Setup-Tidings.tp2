@@ -1,5 +1,5 @@
 /*************************************************************************
- * Dark Tidings V 2.9
+ * Dark Tidings V 3.0
  *
  *
  *
@@ -9,7 +9,7 @@ BACKUP ~Tidings/backup~
 AUTHOR "Acifer"
 AUTO_TRA ~Tidings/language/autotra/%LANGUAGE%/%s~
 README ~Tidings/Documentation/Dark_Tidings_Readme.pdf~
-VERSION ~2.9~
+VERSION ~3.0~
 
 ALWAYS
   ACTION_IF GAME_IS ~eet~ BEGIN
@@ -116,7 +116,7 @@ LANGUAGE ~Espanol (Por XsidoGamer)~
 
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
-// Dark Tidings V 2.9
+// Dark Tidings V 3.0
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
 BEGIN @1510
