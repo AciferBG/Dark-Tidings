@@ -1,36 +1,33 @@
 DARK TIDINGS
 VERSION HISTORY:
 
+Version 3.0
+- added Spanish translation by XsidoGamer
+
 Version 2.9
 - updated chinese Version
 
 Version 2.8
-
 - split scripts and behaviour of the mod's seatrolls for oBG2 and BG2EE to make the mod compatible to the EE fixpack
 
 Version 2.7
-
-- added Russian translation by by Origanum8 and scheele
+- added Russian translation by Origanum8 and scheele
 
 Version 2.6
-
 - fixed the display problem of Chinese installation options, by Esceen-cn
 - Two minor text fixes in German, by Ychap
 
 Version 2.5
-
 - fixed typos, thanks roshan!
 - Lacedons have more HP, lower AC and better THAC0
 - the Veil of Chocking Darkness no longer triggers the Cowled Wizards in Athkatla
 - removed the word "malus" from English language tra as this word doesn't exist in English AD&D terminology
 
 Version 2.4
-
 - correct version info in the tp2 file
 - updated Chinese version, by lzw104522773
 
 Version 2.3
-
 - updated English version, by dizzyorange
 - updated German version, by Shai Hulud
 - updated Chinese version, by lzw104522773
@@ -43,7 +40,6 @@ Version 2.3
 - changed Nightwing's race: Switched from "undead" to "monster"
 
 Version 2.2
-
 - Traified Modification name, by Roberciiik
 - Added VERSION keyword to TP2 file for version tracking in WeiDU.log, by Roberciiik
 - Added Setup-Tidings_ee.tra and Tidings-journal_ee.tra for EE specific translations of those files, by Roberciiik
