@@ -58,6 +58,8 @@ This mod is inspired by:
 - Baldur’s Gate Trilogy (BGT)  
 - Enhanced Edition Trilogy (EET)
 
+If you are using the BP-BGT Worldmap mod, version 14 or higher is required for this mod.
+
 ---
 
 ## Language
