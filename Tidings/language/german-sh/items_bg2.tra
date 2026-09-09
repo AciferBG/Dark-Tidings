@@ -1,14 +1,36 @@
-// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
-
 @2000 = ~Der Ring des reinen Blutes~
 @2001 = ~Die Verwandlung in einen Leichnam ist gefährlich, das weiß auch Arcturus von Shoonach – ein angehender Leichnam. Um sich vor dem tödlichen Trank zu schützen, der für die Verwandlung benötigt wird, fertigte er einen Ring an, in den er das Blut dreier Sturmriesen band und den er mit einem von einem zwergischen Edelsteinschmied geschliffenen Rubin verzierte. Trotz seiner Bemühungen scheiterte Arcturus, und kurz nach seinem Ableben nahm ein Priester von Kelemvor den Ring aus seiner leblosen Hand. Obwohl er seinen Schöpfer nicht retten konnte, erwies sich der Ring für die Kirche von Ilmater als unschätzbar wertvoll, da er bei der Heilung von Kranken und Sterbenden half. Auch heute noch ist er in ganz Faerûn ein mächtiges Symbol für Reinheit, Gesundheit und Vitalität, das von vielen begehrt wird, wenngleich niemand mehr so töricht war, den Ring bei einem so mächtigen Ritual wie der Leichnamswerdung erneut einzusetzen.
 
 EIGENSCHAFTEN:
 
 Konstitution: +1~
+@2001 = ~Leichnam zu werden ist nicht leicht, und schon viele angehende untote Meistermagier scheiterten bei dem Versuch, ewiges Leben zu erlangen, kläglich. Der Magier Arcturus von Shoonach versuchte seinem Misserfolg durch die Erschaffung dieses Ringes vorzubeugen. In aufwändigen Zaubern band er das Blut dreier Sturmriesen in den Ring und ließ von einem zwergischen Edelsteinschleifer einen Rubin als Zierde einarbeiten. Der Lohn der Mühe war dieser Ring, von dem er sich erhoffte, dass jener ihn bei dem Trinken des giftigen Gebräus, welches zur Erlangung des Leichnamsstatus vonnöten war, vor den allzu tödlichen Auswirkungen schützen könne.
+
+Ein Priester Kelemvors zog einige Tage später den Ring von Arcturus’ erkalteten Fingern, bevor er im Mausoleum bestattet wurde. Auch wenn der Ring bei seinem Erschaffer nicht wie erhofft gewirkt hatte, leistete er in den kommenden Jahrhunderten bei der Kirche Ilmaters gute Dienste, welche den Gegenstand nutzte, um Kranke und Dahinsiechende schneller von ihren Gebrechen genesen zu lassen. Von da an war es Aufgabe des Schmuckstückes, sich für das Wohl der Völker Faeruns einzusetzen. Bis heute ist der Ring ein Symbol für Reinheit, Gesundheit und Lebenskraft und wird von vielen aus den unterschiedlichsten Gründen gesucht und begehrt, wenngleich niemand mehr so töricht war, den Ring bei einem so mächtigen Ritual wie der Leichnamswerdung erneut einzusetzen.
+
+EIGENSCHAFTEN:
+
+Konstitution: +1
+
+Gewicht: 0~
 @2002 = ~Schwarzer Umhang~
 @2003 = ~Schleier erstickender Finsternis~
 @2004 = ~Dieser Umhang ist dunkel und unheimlich.~
+@2005 = ~Dieser Umhang ist aus dickem, alten Leinen gewebt, das an seinen Rändern merkwürdig ausgefranst wirkt – ganz so, als würden die Umrisse des Mantels von dieser Welt verschwinden. Er bietet Schutz gegen viele Arten elementaren Schadens und herkömmliche Angriffe, allerdings muss der Träger einen hohen Preis dafür zahlen: Wenn ihm ein Rettungswurf gegen Tod misslingt, stirbt er bei dem Versuch, den Mantel anzulegen. Gelingt der Rettungswurf, büßt er jedoch immer noch einen Teil seiner Lebenskraft ein.
+Der Mantel riecht nach feuchter, düsterer Erde und scheint sehr alt zu sein – vielleicht stammt er aus einer Zeit, als selbst die Götter der Reiche noch jung waren und andere, urtümlichere Wesen über Toril herrschten. Die Geschichte des Kleidungsstückes liegt genau so im Dunkeln wie der Träger des Umhangs selbst.
+
+EIGENSCHAFTEN:
+
+Der Träger wird beim Anlegen augenblicklich getötet (Rettungswurf gegen Tod).
+
+RK-Bonus: –2
+RW-Bonus: +1
+Trefferpunkte: –10
+Elektrizitätswiderstand: +30 %
+Kältewiderstand: +30 %
+Feuerwiderstand: +30 %
+
+Gewicht: 3~
 @2005 = ~Dieser Umhang ist aus dickem, altem Leinen gewebt, das an seinen Rändern merkwürdig ausgefranst wirkt – ganz so, als würden die Umrisse des Mantels von dieser Welt verschwinden. Er bietet Schutz gegen viele Arten elementaren Schadens und herkömmliche Angriffe, allerdings muss der Träger einen hohen Preis dafür zahlen: Wenn ihm ein Rettungswurf gegen Tod misslingt, stirbt er bei dem Versuch, den Mantel anzulegen. Gelingt der Rettungswurf, büßt er jedoch immer noch einen Teil seiner Lebenskraft ein.
 Der Mantel riecht nach feuchter, düsterer Erde und scheint sehr alt zu sein – vielleicht stammt er aus einer Zeit, als selbst die Götter der Reiche noch jung waren und andere, urtümlichere Wesen über Toril herrschten. Die Geschichte des Kleidungsstückes liegt genau so im Dunkeln wie der Träger des Umhangs selbst.
   
@@ -25,6 +47,16 @@ Feuerwiderstand: +30 %
 
 Gewicht: 3~
 @2006 = ~Pfeile der Dunkelheit~
+@2007 = ~Wenn dieser Pfeil auf einen Gegner geschossen wird, wird der Getroffene – sofern ihm ein Rettungswurf gegen Zauber misslingt – mit Blindheit für eine Runde belegt.
+
+EIGENSCHAFTEN:
+
+Bei jedem Treffer wird das Ziel für 1 Runde blind (Rettungswurf gegen Zauber).
+
+Schaden: 1W6 (Geschoss)
+Schusswaffe: Bogen
+
+Gewicht: 0~
 @2007 = ~Wenn dieser Pfeil auf einen Gegner geschossen wird, wird das Ziel mit Blindheit für eine Runde belegt, sofern ihm ein Rettungswurf gegen Zauber misslingt.
 
 EIGENSCHAFTEN:
@@ -36,6 +68,16 @@ Schusswaffe: Bogen
 
 Gewicht: 0~
 @2008 = ~Pfeile der Krankheit~
+@2009 = ~Diese Pfeile sind mit geronnenem Blut einer unbekannten Kreatur überzogen. Wird ein Wesen von solch einem Pfeil getroffen, wird es von einer Krankheit heimgesucht.
+
+EIGENSCHAFTEN:
+
+Bei jedem Treffer wird das Ziel für 4 Runden verlangsamt.
+
+Schaden: 1W6 (Geschoss)
+Schusswaffe: Bogen
+
+Gewicht: 0~
 @2009 = ~Diese Pfeile sind mit dem geronnenen Blut eines unbekannten Wesens bedeckt. Wenn ein Feind von diesem Pfeil getroffen wird, wird er von einer Krankheit befallen.
 
 EIGENSCHAFTEN:
@@ -53,6 +95,11 @@ Gewicht: 0~
 @2016 = ~Schattenziegel~
 @2017 = ~Dieser Ziegelstein ist von tiefstem Schwarz durchdrungen. Seine Ränder scheinen zu zerfließen. Er fühlt sich kalt an und ist leicht wie eine Feder.~
 @2018 = ~Das Buch des Rituals~
+@2019 = ~Eine leuchtende Sonne ziert den Einband dieses Buches. Obwohl es sehr alt aussieht, scheint es noch gut erhalten zu sein. Ihr habt es von dem untoten Leuchtturmwärter erhalten, der Euch gebeten hat, mithilfe des Buches ein Ritual durchzuführen, um das Portal in die Schattenebene zu schließen und den unheiligen Ort unter dem Leuchtturm stillzulegen. Das Buch enthält hierzu eine Passage, wie das Ritual abzuhalten ist:
+
+„Um den Einfluss des Älteren Elementarauges, des bösen Tharizdun, aus der Welt des Lichtes zu verbannen, muss ein Anwender arkaner oder göttlicher Magie wie folgt vorgehen. An dem Ort unter dem Leuchtturm, an dem das Flüstern Tharizduns vernommen werden kann und die verdrehte Elementarmagie wirksam ist, muss das Ritual durchgeführt werden.
+
+Zunächst muss der Leuchtkristall unter dem unheiligen Altar platziert werden. Ein Kundiger der Magie muss sich in die Mitte des Raumes stellen. Es ist unerheblich, ob es sich bei dem Magiewirker um einen Magier oder einen Priester handelt. Als ersten Zauber muss der Zauberwirker den Zauber ‚Schutz vor Bösem‘ wirken, um die bösen Elemente von dem Ort fernzuhalten. Als zweiter Zauber muss ‚Wahrer Blick‘ gewirkt werden, um die bösartigen Illusionen Tharizduns aus der Welt zu schaffen. Als letzten Zauber muss der Ritualist ‚Magie bannen‘ wirken, um die magischen Bande, die den unheiligen Ort mit Energie füttern, zu durchbrechen. Danach ist das Ritual vollbracht und die dunklen Einflüsterungen Tharizduns werden für immer unter dem Leuchtturm verstummt sein. Vielleicht wird der Lichtkristall durch das Ritual zerstört, doch dies ist das notwendige Opfer, das erforderlich ist, um das dunkle Übel Tharizduns wieder aus der Welt des Lichtes zu verbannen.“~
 @2019 = ~Eine leuchtende Sonne ziert den Einband dieses Buches. Obwohl es sehr alt aussieht, scheint es noch gut erhalten zu sein. Ihr habt es von einem untoten Leuchtturmwärter erhalten, der Euch gebeten hat, mit Hilfe des Buches ein Ritual durchzuführen, um ein Portal in die Schattenebene unter dem Leuchtturm zu schließen.
 
 Die wesentliche Passage des Buchs lautet:
@@ -65,14 +112,28 @@ Danach ist das Ritual vollbracht und die dunklen Einflüsterungen Tharizduns unt
 @2020 = ~Das letzte Zeitalter ewiger Finsternis~
 @2021 = ~Dieses Buch ist mit einer seltsam gezackten Spirale verziert. Es enthält zahlreiche obskure Runen, Zeichen und Worte in uralten, heute nicht mehr bekannten Sprachen. Nur einige Zeilen sind in einer für Euch verständlichen Schrift und Sprache verfasst:
 
+„Der Beender, das Ältere Elementarauge, der Dunkle Gott, der Geduldige, der Wartende, das Gräuel, der Vater des Urbösen, der Urheber des Unheils, der Herr der ewigen Finsternis, der Weltenfresser, der Verachtete, der Ungeschehenmacher – dies sind nur einige der vielen Namen für unseren glorreichen Meister. Tausend Jahre hat der dunkle Gott gewartet, lauernd jenseits der Grenzen der Realität, eingeschlossen in einem von eifersüchtigen Händen errichteten Gewölbe, dessen rechtmäßiger Thron von Usurpatoren besetzt ist. In den letzten Jahrhunderten haben unsere Bemühungen zu Zerstörung, Verfall und Verlust geführt, während diese geringeren Mächte versucht haben, uns zu verwirren, in die Irre zu führen und gegeneinander aufzubringen, denn Ihr seht, Seine Freilassung bedeutet ihr Ende. Sie fürchten ihn. Ja, der mächtige Tyr, Lathander, sogar die traurige Beshaba, sie alle zittern vor seiner bevorstehenden Ankunft. Die Zeit ist gekommen, das Ende ist gekommen, und es ist unsere heilige Pflicht, das letzte Zeitalter unserer Welt einzuleiten und die Konstruktionen der falschen Götter in den Ruin zu treiben. Erst dann werden wir die vollkommene Natur all dessen verstehen, was mit der Ewigen Finsternis möglich ist.“~
+@2021 = ~Dieses Buch ist mit einer seltsam gezackten Spirale verziert. Es enthält zahlreiche obskure Runen, Zeichen und Worte in uralten, heute nicht mehr bekannten Sprachen. Nur einige Zeilen sind in einer für Euch verständlichen Schrift und Sprache verfasst:
+
 „Der Beender, das Ältere Elementarauge, der Dunkle Gott – dies sind nur einige der vielen Namen für unseren glorreichen Meister. 1.000 Jahre hat er gewartet, eingekerkert von missgünstigen Kräften. Nun, da niedere Götter wie Tyr und Lathander seine bevorstehenden Ankunft fürchten, obliegt es uns, ihre Ordnung zu zerstören und das letzte Zeitalter einzuleiten. Das Ende naht, unsere heilige Pflicht ist klar: Die Herrschaft der Ewigen Finsternis herbeizuführen; die Konstrukte der falschen Götter zu zerstören.“~
 @2022 = ~Kultistenhelm~
 @2023 = ~Dieser Helm ist weniger Schutz, als vielmehr der Kopfschmuck eines Euch unbekannten Kultes. Er ist aufwändig verziert und hat eine dunkel-purpurne Farbe. Auf dem Rand des Helmes ist eine feine Verzierung angebracht. In Gemeinsprache steht dort geschrieben: „Die Gläubigen sollen den Helm tragen, auf dass sich Ihnen der Weg des Älteren Elementarauges zeigen möge.“~
 @2024 = ~Dieser Helm ist weniger Schutz, als vielmehr der Kopfschmuck eines Euch unbekannten Kultes. Er ist aufwändig verziert und hat eine dunkel-purpurne Farbe.~
 @2025 = ~Notiz~
 @2026 = ~Eure Aufgabe ist es, die von den Sirenen bezauberten Schiffbrüchigen in Empfang zu nehmen. Geleitet sie vor die Treppen des Tempels, wo die Opferdiener warten. Die Sirenen und Trolle scheinen durch diese Parallelwelt beeinflusst zu werden, sie verwandeln sich langsam in schattenhafte Abbilder ihrer selbst. Vielleicht können sie uns so noch mehr nützen.
+– Schicksalsträumer Vergol~
+@2026 = ~Eure Aufgabe ist es, die von den Sirenen bezauberten Schiffbrüchigen in Empfang zu nehmen. Geleitet sie vor die Treppen des Tempels, wo die Opferdiener warten. Die Sirenen und Trolle scheinen durch diese Parallelwelt beeinflusst zu werden, sie verwandeln sich langsam in schattenhafte Abbilder ihrer selbst. Vielleicht können sie uns so noch mehr nützen.
 – Schicksalsträumer Vergol~
 @2027 = ~Brokus’ Notiz~
+@2028 = ~Schwarzseher Brokus,
+
+Euch als einem meiner treuesten Untergebenen erteile ich die wichtigste Aufgabe bei unserer heiligen Mission. Ich wechsele mit den anderen Schwarzsehern auf die andere Seite. Sorgt Ihr dafür, dass die Trolle, die Sirenen und die Hexe uns gewogen bleiben. Überlebende Schiffbrüchige müssen möglichst schnell von den Sirenen bezaubert und von Euch auf die andere Seite als Opfer gebracht werden. Wenn Eindringlinge auf der Insel landen, müsst ihr die Passage versiegeln, damit sie nicht entdeckt wird. Ankömmlinge sollen denken, dass eine Meerhexe hinter allem steckt.
+
+Solltet Ihr also den Durchgang wieder verschließen müssen, geht wie folgt vor: Zerstört den Schattenstein, damit sich der geheime Durchgang verschließt. Es lässt sich später leicht ein neuer Schattenstein in der Ritualkammer generieren. Verschließt die Tür in den Keller und versteckt den Schlüssel, am besten in Eurer Truhe. Lasst die Hexe den Turm von außen mit ihrer faulen Magie versiegeln. Vergesst nicht, die Fallen im Turm zu aktivieren! Wenn die Gefahr vorüber ist, müsst Ihr wieder das Ritual durchführen, um einen neuen Schattenstein zu erhalten. Denkt daran, dass Ihr Euren Kulthelm tragen müsst, um die Umrisse der Geheimtür erkennen zu können.
+
+Vernichtet diese Nachricht, nachdem Ihr sie gelesen habt.
+
+– Schicksalsträumer Vergol~
 @2028 = ~Schwarzseher Brokus,
 
 Euch als einem meiner treuesten Untergebenen erteile ich die wichtigste Aufgabe bei unserer heiligen Mission. Ich wechsele mit den anderen Schwarzsehern auf die andere Seite. Sorgt Ihr dafür, dass die Trolle, die Sirenen und die Hexe uns gewogen bleiben. Überlebende Schiffbrüchige müssen möglichst schnell von den Sirenen bezaubert und von Euch auf die andere Seite als Opfer gebracht werden. 
@@ -84,9 +145,13 @@ Solltet Ihr also den Durchgang wieder verschließen müssen, geht wie folgt vor:
 Vernichtet diese Nachricht, nachdem Ihr sie gelesen habt.
 
 – Schicksalsträumer Vergol~
+@2029 = ~Dies ist unser Glaubenssatz, unser tiefstes Gelöbnis:
+„Das Licht muss ausgelöscht, die Perfektion zerstört, die Ordnung aufgelöst und der Geist zerstückelt werden.“
+Dann, irgendwo im nirgendwo, wo weder Zeit noch Raum existiert, rührt sich das gewaltige Wesen und strebt zu erwachen. Dann ist die Zeit der Schwärzesten aller Dunkelheiten gekommen.~
 @2029 = ~Dies ist unser Glaubenssatz, unser tiefstes Gelöbnis: „Das Licht muss ausgelöscht, die Perfektion zerstört, die Ordnung aufgelöst und der Geist zerstückelt werden.“
 
 Dann, irgendwo im nirgendwo, wo weder Zeit noch Raum existieren, rührt sich das gewaltige Wesen und strebt zu erwachen. Dann ist die Zeit der schwärzesten aller Dunkelheiten gekommen.~
+@2030 = ~„Wo viel Licht ist, ist auch viel Schatten.“~
 @2030 = ~Wo viel Licht ist, ist auch viel Schatten.~
 @2031 = ~Krabbenschere~
 @2032 = ~Diese magisch veränderten Greifwerkzeuge waren einst die Scheren einer Riesenkrabbe. Mithilfe dieses Gegenstandes sollte es möglich sein, durch allerlei Meeresbewuchs verschlossene Bereiche öffnen zu können.~
@@ -97,6 +162,18 @@ Dann, irgendwo im nirgendwo, wo weder Zeit noch Raum existieren, rührt sich das
 @2037 = ~Gebiss~
 @2038 = ~Die lachenden Dritten~
 @2039 = ~Dieses Gebiss scheint aus Tierknochen geschnitzt worden zu sein.~
+@2040 = ~Dies ist das Gebiss von Ormond Dante, einem legendären Piraten, der vor etwa 100 Jahren die Schwertküste unsicher machte. Vom Skorbut schwer gezeichnet gab er in höherem Lebensalter bei einer gnomischen Manufaktur diese Zähne in Auftrag, die aus Walfischknochen geschnitzt worden sind. Sein Schiffsmagier legte einige Verzauberungen auf die Zähne, doch gegen den ranzigen Atem und das schauerliche Aussehen seines Kapitäns konnte selbst der Zauberer nichts ausrichten. Der Pirat war bekannt für sein dröhnendes Gelächter in ausweglosen Situationen, und so verwundert es nicht, dass sein Gebiss die Fähigkeit besitzt, Gegner in Hörreichweite eine Zeit lang zu verunsichern.
+
+EIGENSCHAFTEN:
+
+Ormonds Gelächter (1x täglich)
+  Alle Gegner in Hörweite erhalten für 5 Runden einen Malus von –2 auf alle Würfe (auch auf ETW0- und Rettungswürfe). Es gibt keinen Rettungswurf gegen die Auswirkungen dieses Zaubers.
+
+Der Träger ist immun gegen Furcht und Bezauberung.
+
+Charsima: –2
+
+Gewicht: 1~
 @2040 = ~Dies ist das Gebiss von Ormond Dante, einem legendären Piraten, der vor etwa 100 Jahren die Schwertküste unsicher machte. Vom Skorbut schwer gezeichnet gab er in höherem Lebensalter bei einer gnomischen Manufaktur diese Zähne in Auftrag, die aus Walfischknochen geschnitzt worden sind. Sein Schiffsmagier legte einige Verzauberungen auf die Zähne, doch gegen den ranzigen Atem und das schauerliche Aussehen seines Kapitäns konnte selbst der Zauberer nichts ausrichten. Der Pirat war bekannt für sein dröhnendes Gelächter in ausweglosen Situationen, und so verwundert es nicht, dass sein Gebiss die Fähigkeit besitzt, Gegner in Hörreichweite eine Zeit lang zu verunsichern.
 
 EIGENSCHAFTEN:
@@ -120,7 +197,26 @@ Gewicht: 1~
 Irphong ist unser! Wir sind auf dem Eiland gelandet. Ein Stamm Sirenen hatte sich in den Höhlen eingenistet, doch sie haben unserem dunklen Herrn die Treue geschworen, nachdem wir zwei von ihnen erschlagen haben. Sie können uns noch nützlich sein. Einige Narren haben sich sogleich auf Schatzsuche begeben. Als würde davon nach all den Jahrhunderten, in denen die Insel unbewohnt ist, noch etwas übrig geblieben sein!
 
 12. Tarsak
-Schicksalsträumer Vergol hat eine Gruppe Seetrolle auf die Insel beschworen, um Piraten fernzuhalten. Auch die Hexe ist eingetroffen und hat sich im oberen Teil der Insel eingerichtet. Wir dürfen sie nicht ansehen, sonst trifft uns ihr Fluch der Schwäche. Ihr Gebräu ist ganz nützlich. Meistens wandert sie in Gestalt eines kleinen Mädchens über die Insel. Alle suchen fieberhaft nach dem Zugang zur anderen Seite, aber wir haben nichts gefunden.
+Schicksalsträumer Vergol hat eine Gruppe Meerestrolle auf die Insel beschworen, um Piraten fernzuhalten. Auch die Hexe ist eingetroffen und hat sich im oberen Teil der Insel eingerichtet. Wir dürfen sie nicht ansehen, sonst trifft uns ihr Fluch der Schwäche. Ihr Gebräu ist ganz nützlich. Meistens wandert sie in Gestalt eines kleinen Mädchens über die Insel. Alle suchen fieberhaft nach dem Zugang zur anderen Seite, aber wir haben nichts gefunden.
+
+20. Tarsak
+Wir haben das Portal auf die andere Seite gefunden! Es war die ganze Zeit da, direkt vor unseren Augen! Die alten Kultisten haben sich redlich Mühe gegeben, es vor neugierigen Blicken zu verstecken. Wenn man den entsprechenden Gegenstand ins Versteck stellt und den Helm unseres Kultes trägt, erscheint der Durchgang klar vor einem.
+
+1. Mirtul
+Die anderen haben den Lichtstein aus der Fassung des Leuchtturmes im obersten Stock genommen und sind damit durch das Portal auf die andere Seite gewechselt. Jeder Schiffbrüchige, der jetzt noch angespült wird, muss von mir als Opfer dorthin gebracht werden. Jeder Dritte ist für die Trolle, die Hexe und die Sirenen. Ich soll hier warten und mich verstecken. Die Schiffe, die vorbei segeln, sollen glauben, dass die Meerhexe und die Sirenen hinter allem stecken.
+
+3. Mirtul
+Schicksalsträumer Vergol ist noch immer damit beschäftigt, das Ritual zu vollenden. Wir brauchen mehr Opfer! Die Schiffe meiden das Eiland mittlerweile, und alle werden langsam unruhig …
+
+4. Mirtul
+Ich spüre, wie mich der Wahnsinn packt. Ist das die Berührung unseres ersehnten Gottes? Ich weiß es nicht …~
+@2046 = ~Brokus’ Tagebuch
+
+3. Tarsak 1369
+Irphong ist unser! Wir sind auf dem Eiland gelandet. Ein Stamm Sirenen hatte sich in den Höhlen eingenistet, doch sie haben unserem dunklen Herrn die Treue geschworen, nachdem wir zwei von ihnen erschlagen haben. Sie können uns noch nützlich sein. Einige Narren haben sich sogleich auf Schatzsuche begeben. Als würde davon nach all den Jahrhunderten, in denen die Insel unbewohnt ist, noch etwas übrig geblieben sein!
+
+12. Tarsak
+Schicksalsträumer Vergol hat eine Gruppe Meerestrolle auf die Insel beschworen, um Piraten fernzuhalten. Auch die Hexe ist eingetroffen und hat sich im oberen Teil der Insel eingerichtet. Wir dürfen sie nicht ansehen, sonst trifft uns ihr Fluch der Schwäche. Ihr Gebräu ist ganz nützlich. Meistens wandert sie in Gestalt eines kleinen Mädchens über die Insel. Alle suchen fieberhaft nach dem Zugang zur anderen Seite, aber wir haben nichts gefunden.
 
 20. Tarsak
 Wir haben das Portal auf die andere Seite gefunden! Es war die ganze Zeit da, direkt vor unseren Augen! Die alten Kultisten haben sich redlich Mühe gegeben, es vor neugierigen Blicken zu verstecken. Wenn man den entsprechenden Gegenstand ins Versteck stellt und den Helm unseres Kultes trägt, erscheint der Durchgang klar vor einem.
@@ -134,6 +230,9 @@ Schicksalsträumer Vergol ist noch immer damit beschäftigt, das Ritual zu volle
 4. Mirtul
 Ich spüre, wie mich der Wahnsinn packt. Ist das die Berührung unseres ersehnten Gottes? Ich weiß es nicht …~
 @2047 = ~Vergols Visionen~
+@2048 = ~Der geknechtete Gott, der eingekerkerte Gott, der Dunkle …
+… er ruft mich! Anfangs waren meine Träume wirr und unklar, doch nun ist es mir wie ein Schatten von den Augen gefallen. Wie passend! Endlich hat unsere Kultzelle einen Nutzen. Es gibt dieses einsame Eiland, weit westlich unserer Heimat Schachentas. Dort haben sie in grauer Vorzeit unserem Herrn Tharizdun gehuldigt. In späteren Generationen wurde sein Kult verboten, und die vielen Opfer, die die Untiefen vor der Insel für unseren Herrn darboten, versiegten. Die Narren stellten sogar einen magischen Leuchtturm auf die Insel, um dem Herrn der Schatten Einhalt zu gebieten. Der Auftrag, den uns unser Herr in meinen Träumen gab, ist einfach: Den magischen Kristall des Leuchtturmes entfernen, den uralten Zugang in die Ebene unseres Herrn entsiegeln, all die Gestrandeten dem Älteren Elementarauge als Opfer darbieten, den Leuchtstein dadurch entweihen und schließlich die Bande, die unseren Gott davon abhalten, wieder in die Welt zu treten, brechen.
+Dann endlich wird der Blick des Älteren Elementarauges, unseres Herrn Tharizdun, wieder alles in ewige Finsternis hüllen und uns, seinen treuesten Dienern, einen Platz an seiner Seite sichern.~
 @2048 = ~Der geknechtete Gott, der eingekerkerte Gott, der Dunkle …
 … er ruft mich!
 
@@ -159,6 +258,15 @@ Wasserelementar beschwören (1x täglich)
   Stufe 8–11: Niederer Wasserelementar mit 8 TW
   Stufe 12–15: Wasserelementar mit 12 TW
   Stufe 16+: Höherer Wasserelementar mit 16 TW~
+@2055 = ~Diese magische Schale verfügt über große Kräfte, die sie auf ihren Besitzer überträgt; dieser erlangt die Macht, in bestimmtem Umfang magische Wesen kontrollieren zu können, die als Wasserelementare bezeichnet werden. Wie bei allen Elementarkräften kann diese Macht Gutes oder Böses bewirken, Ordnung oder Chaos. Man sollte daher beim Umgang mit diesen Wesen vorsichtig sein.
+
+EIGENSCHAFTEN:
+
+Wasserelementar beschwören (1x täglich)
+  Die Stärke des beschworenen Wasserelementars hängt von der Stufe des Anwenders ab:
+  Stufe 8–11: Niederer Wasserelementar mit 8 TW
+  Stufe 12–15: Wasserelementar mit 12 TW
+  Stufe 16+: Höherer Wasserelementar mit 16 TW~
 @2056 = ~Leuchtkristall~
 @2057 = ~Dies ist der Leuchtkristall, der den magischen Schein im obersten Stockwerk des Leuchtturmes von Irphong aktiviert. Seine Ursprünge sind im Laufe der Jahrtausende in Vergessenheit geraten. Er scheint älter als die ersten Reiche der Menschen in den Herzlanden zu sein. Seine Verwendung als Lichtquelle für den Leuchtturm von Irphong geht auf das Zeitalter des Shoon-Imperiums zurück, als die Menschen versuchten, die meisten Dinge des Lebens durch Magie zu lösen.~
 @2058 = ~Nebelwolke~
@@ -172,8 +280,36 @@ Zeitaufwand: 2
 Bereich: 4,5 m Radius
 Rettungswurf: Nein
 
+Dieser Zauber erschafft einen dichten Nebel, der im Aussehen dem Zauber „Todeswolke“ des 5. Grades ähnelt. Allerdings bildet dieser Nebel eine wogende Masse geisterhafter, gelb-grüner Schwaden mit einem Durchmesser von 9 Metern, die nicht giftig sind, aber die Sicht verschleiern. Wesen, die sich im Nebel befinden, sind während der Wirkungsdauer blind. Außerdem besteht eine 50-prozentige Wahrscheinlichkeit, dass Wesen in der Wolke nicht zu erkennen sind und für eine Runde unsichtbar werden.~
+@2059 = ~Nebelwolke
+
+Grad: 2
+Schule: Veränderung
+Reichweite: 9 m
+Dauer: 4 Runden
+Zeitaufwand: 2
+Bereich: 4,5 m Radius
+Rettungswurf: Nein
+
 Dieser Zauber erschafft einen dichten Nebel, der im Aussehen dem Zauber „Todeswolke“ des 5. Grades ähnelt. Allerdings bildet dieser Nebel eine wogende Masse geisterhafter, gelb-grüner Schwaden mit einem Durchmesser von 9 Metern, die nicht giftig sind, aber die Sicht verschleiern. Wesen, die sich im Nebel befinden, sind während der Wirkungsdauer blind. Außerdem besteht eine 50-prozentige Wahrscheinlichkeit, dass Wesen in der Wolke nicht zu erkennen sind und für 1 Runde unsichtbar werden.~
 @2060 = ~Wasserklinge +2~
+@2061 = ~Dieses Langschwert hat eine fließende, geschwungene Form. An seinem Knauf ist ein blau-grüner, quadratischer Griff angebracht, der wie das übrige Aussehen der Klinge auf ihre elementare Verbindung zum Element Wasser hinweist. Wenn das Schwert in der Hand gehalten wird, ist der Träger für ein gewisses Maß vor Kälte geschützt. Außerdem kann er einmal täglich einen Schwall aus reinem Wasser aus der Klinge schleudern.
+
+EIGENSCHAFTEN:
+
+Wasserschwall (1x täglich)
+  Entfesselt eine Druckwelle, die bei jedem Ziel in einem 15 m Kegel 3W6 Schadenspunkte durch Wucht verursacht.
+
+Kältewiderstand: +40 %
+
+ETW0-Bonus: –2
+Schaden: 1W8 +2 (Klinge)
+Initiativefaktor: 3
+Fertigkeit: Langschwert
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 3~
 @2061 = ~Dieses Langschwert hat eine fließende, geschwungene Form. An seinem Knauf ist ein blau-grüner quadratischer Griff angebracht, der wie das übrige Aussehen der Klinge auf ihre elementare Verbindung zum Element Wasser hinweist. Wenn das Schwert in der Hand gehalten wird, ist der Träger für ein gewisses Maß vor Kälte geschützt. Außerdem kann er einmal täglich einen Schwall aus reinem Wasser aus der Klinge schleudern, der in einem Bereich von 15 Metern bei jedem Wesen im Wirkungsbereich 3W6 Schadenspunkte durch Wucht verursacht.
 
 EIGENSCHAFTEN:
@@ -205,7 +341,41 @@ Bereich: 1 Wesen
 Rettungswurf: Nein
 
 Durch die Anwendung dieses Zaubers wird der Empfänger immun gegen Gifte, die über Kontakt mit der Haut, Verschlucken oder Stich verabreicht werden. Gifte anderer Arten wirken weiterhin normal auf das Wesen. Alle Gifte, die sich bereits im Körper befinden, wenn der Zauber gewirkt wird, sind ebenfalls nicht von diesem Zauberspruch betroffen.~
+@2063 = ~Schutz vor Gift
+
+Grad: 2
+Schule: Bannzauber
+Reichweite: Berührung
+Dauer: 10 Runden
+Zeitaufwand: 3
+Bereich: 1 Wesen
+Rettungswurf: Nein
+
+Durch die Anwendung dieses Zaubers wird der Empfänger immun gegen Gifte, die über Kontakt mit der Haut, Verschlucken oder Stich verabreicht werden. Gifte anderer Arten wirken weiterhin normal auf das Wesen. Alle Gifte, die sich bereits im Körper befinden, wenn der Zauber gewirkt wird, sind ebenfalls nicht von diesem Zauberspruch betroffen.~
 @2064 = ~Wasserklinge +3~
+@2065 = ~Dieses Langschwert hat eine fließende, geschwungene Form. An seinem Knauf ist ein blau-grüner, quadratischer Griff angebracht, der wie das übrige Aussehen der Klinge auf ihre elementare Verbindung zum Element Wasser hinweist. Wenn das Schwert in der Hand gehalten wird, ist der Träger für ein gewisses Maß vor Kälte geschützt. Außerdem kann er einmal täglich einen Schwall aus reinem Wasser aus der Klinge schleudern.
+
+EIGENSCHAFTEN:
+
+Wasserschwall (1x täglich)
+  Entfesselt eine Druckwelle, die bei jedem Ziel in einem 15 m Kegel 4W6 Schadenspunkte durch Wucht verursacht.
+
+Ein Sahuagin wird bei jedem Treffer für 1 Runde betäubt.
+
+Kältewiderstand: +50 %
+
+ETW0-Bonus:
+  –3
+  –5 gg. aquatische Wesen wie Kuo-Toa und Sahuagin
+Schaden:
+  1W8 +3 (Klinge)
+  1W8 +5 (Klinge) gg. aquatische Wesen wie Kuo-Toa und Sahuagin
+Initiativefaktor: 3
+Fertigkeit: Langschwert
+Typ: 1-händig
+Mindeststärke: 5
+
+Gewicht: 3~
 @2065 = ~Dieses Langschwert hat eine fließende, geschwungene Form. An seinem Knauf ist ein blau-grüner quadratischer Griff angebracht, der wie das übrige Aussehen der Klinge auf ihre elementare Verbindung zum Element Wasser hinweist. Wenn das Schwert in der Hand gehalten wird, ist der Träger für ein gewisses Maß vor Kälte geschützt. Außerdem kann er einmal täglich einen Schwall aus reinem Wasser aus der Klinge schleudern, der in einem Bereich von 15 Metern bei jedem Wesen im Wirkungsbereich 4W6 Schadenspunkte durch Wucht verursacht.
 
 EIGENSCHAFTEN:

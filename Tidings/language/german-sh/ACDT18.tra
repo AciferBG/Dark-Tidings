@@ -1,16 +1,14 @@
-// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
-
-@0 = ~Ihr habt … das Ritual vollendet! Ich kann spüren, dass keine Schatten mehr an dieser Insel ausgehen …~
-@1 = ~Dieses Wesen … Tharizdun … ist von diesem Ort gebannt. Hütet Euch dennoch vor seinen Anhängern! Sie sind wie Haie – bei dem leichtesten Geruch bezüglich Hintergründen oder Neuigkeiten über den Aufenthalt ihres Meisters werden sie jeden Eurer Schritte unerbittlich verfolgen. Gebt auf Euch acht!~
-@2 = ~Das Buch der Rituale … Es ist nicht länger von Nutzen … Ich nehme Euch diese Last ab …~
-@3 = ~Eure und meine Aufgabe ist getan … und ich bin erlöst … Endlich, nach all den Jahrhunderten … endlich … Frieden.~
-@4 = ~Ihr seid wieder in den Landen des Lichts … Führt das Ritual durch, um die Dunkelheit zu brechen …~
-@5 = ~Der Kristall … er wurde gestohlen …~
-@6 = ~Die Leuchtturmwächter haben versagt … Ich war der Letzte von ihnen …~
-@7 = ~Findet mich auf der anderen Seite … Ich kann Euch helfen …~
-@8 = ~… und Ihr könnt mir helfen, ewige Ruhe zu finden!~
+@0 = ~Ihr habtÂ â€¦ das Ritual vollendet! Ich kann spÃ¼ren, dass keine Schatten mehr an dieser Insel ausgehenÂ â€¦~
+@1 = ~Dieses WesenÂ â€¦ TharizdunÂ â€¦ ist von diesem Ort gebannt. HÃ¼tet Euch dennoch vor seinen AnhÃ¤ngern! Sie sind wie HaieÂ â€“ bei dem leichtesten Geruch bezÃ¼glich HintergrÃ¼nden oder Neuigkeiten Ã¼ber den Aufenthalt ihres Meisters werden sie jeden Eurer Schritte unerbittlich verfolgen. Gebt auf Euch acht!~
+@2 = ~Das Buch der RitualeÂ â€¦ Es ist nicht lÃ¤nger von NutzenÂ â€¦ Ich nehme Euch diese Last abÂ â€¦~
+@3 = ~Eure und meine Aufgabe ist getanÂ â€¦ und ich bin erlÃ¶stÂ â€¦ Endlich, nach all den JahrhundertenÂ â€¦ endlichÂ â€¦ Frieden.~
+@4 = ~Ihr seid wieder in den Landen des LichtsÂ â€¦ FÃ¼hrt das Ritual durch, um die Dunkelheit zu brechenÂ â€¦~
+@5 = ~Der KristallÂ â€¦ er wurde gestohlenÂ â€¦~
+@6 = ~Die LeuchtturmwÃ¤chter haben versagtÂ â€¦ Ich war der Letzte von ihnenÂ â€¦~
+@7 = ~Findet mich auf der anderen SeiteÂ â€¦ Ich kann Euch helfenÂ â€¦~
+@8 = ~â€¦Â und Ihr kÃ¶nnt mir helfen, ewige Ruhe zu finden!~
 @9 = ~Wer seid Ihr?~
-@10 = ~Was für eine andere Seite?~
+@10 = ~Was fÃ¼r eine andere Seite?~
 @11 = ~Sterbt, untotes Scheusal!~
 @12 = ~Ich gehe dann lieber einmal wieder.~
-@13 = ~Ihr könnt mich nicht zerstören … Ich bin verflucht …~
+@13 = ~Ihr kÃ¶nnt mich nicht zerstÃ¶renÂ â€¦ Ich bin verfluchtÂ â€¦~

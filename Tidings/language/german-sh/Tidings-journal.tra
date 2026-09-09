@@ -1,17 +1,15 @@
-// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
-
 @10000 = ~Dunkle Gezeiten
 
 Ich soll auf der Insel Irphong nach der Ursache für das erloschene magische Feuer des Leuchtturmes suchen. Ein Magier namens Thalass wartet im Hafenviertel am Leuchtturm mit einer Crew auf mich, um die kurze Reise zu dem Eiland zu beginnen.~
 @10001 = ~Dunkle Gezeiten
 
-Kurz nach der Landung auf der Insel Irphong wurden wir auch schon von einer Gruppe Seetrolle überfallen, die allem Anschein nach von einer Meerhexe angeführt wird. Da alle Seeleute tot sind, muss ich nach einer anderen Möglichkeit suchen, die Insel wieder zu verlassen. Nur ein erfahrener Seemann wäre nämlich imstande, das intakte Boot durch die Untiefen vor der Insel zurück nach Athkatla zu lenken. Wenn ich jedoch den Leuchtturm wieder in Gang setzen könnte, würden vielleicht andere Schiffe auf mich aufmerksam werden, um mich wieder von dem Eiland wegzubringen. Ich sollte also alles daransetzen, das magische Leuchtfeuer wieder zum Strahlen zu bringen. Dafür muss ich aber erst einmal herausfinden, weshalb das Licht überhaupt erloschen ist.~
+Kurz nach der Landung auf der Insel Irphong wurden wir auch schon von einer Gruppe Meerestrolle überfallen, die allem Anschein nach von einer Meerhexe angeführt wird. Da alle Seeleute tot sind, muss ich nach einer anderen Möglichkeit suchen, die Insel wieder zu verlassen. Nur ein erfahrener Seemann wäre nämlich imstande, das intakte Boot durch die Untiefen vor der Insel zurück nach Athkatla zu lenken. Wenn ich jedoch den Leuchtturm wieder in Gang setzen könnte, würden vielleicht andere Schiffe auf mich aufmerksam werden, um mich wieder von dem Eiland wegzubringen. Ich sollte also alles daransetzen, das magische Leuchtfeuer wieder zum Strahlen zu bringen. Dafür muss ich aber erst einmal herausfinden, weshalb das Licht überhaupt erloschen ist.~
 @10002 = ~Dunkle Gezeiten
 
 Es hat geklappt! Das magische Licht des Leuchtturmes hat dazu geführt, dass eine Gruppe Matrosen eines vorbeifahrenden Schiffes auf der Insel gelandet ist. Sie können mich wieder zurück nach Athkatla bringen und warten unten an dem Boot, mit dem ich hergekommen bin.~
 @10003 = ~Dunkle Gezeiten
 
-Ich bin wieder in Athkatla gelandet. Nun sollte ich in die Taverne „Seeschatz“ gehen und mir meine wohlverdiente Belohnung von dem Magier Thalass abholen.~
+Ich bin wieder in Athkatla gelandet. Nun sollte ich in die Taverne Seeschatz gehen und mir meine wohlverdiente Belohnung von dem Magier Thalass abholen.~
 @10004 = ~Dunkle Gezeiten
 
 Mit der Belohnung, die ich von dem Magier Thalass erhalten habe, endet mein Abenteuer um die Insel Irphong. So schnell werde ich keinen Fuß mehr auf eine verfluchte Insel setzen!~

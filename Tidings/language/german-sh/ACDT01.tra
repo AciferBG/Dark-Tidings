@@ -1,11 +1,9 @@
-// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
-
-@0 = ~Ihr werdet diese Insel niemals wieder lebend verlassen! Ihr werdet ebenso wie alle anderen, die hier gestrandet sind, als Opfer für unseren Dunklen Herrn dienen!~
-@1 = ~Ihr da! Kommt herunter und kämpft wie ein Mann!~
-@2 = ~Seid Ihr verantwortlich für das erloschene Licht?~
+@0 = ~Ihr werdet diese Insel niemals wieder lebend verlassen! Ihr werdet ebenso wie alle anderen, die hier gestrandet sind, als Opfer fÃ¼r unseren Dunklen Herrn dienen!~
+@1 = ~Ihr da! Kommt herunter und kÃ¤mpft wie ein Mann!~
+@2 = ~Seid Ihr verantwortlich fÃ¼r das erloschene Licht?~
 @3 = ~Welchem Dunklen Herrn dient Ihr denn?~
-@4 = ~Dem mit den vielen Namen. Ich könnte Euch viele seiner Titel nennen, doch Ihr würdet ihn nicht erkennen. Ihr seid kein Auserwählter.~ ~Dem mit den vielen Namen. Ich könnte Euch viele seiner Titel nennen, doch Ihr würdet ihn nicht erkennen. Ihr seid keine Auserwählte.~
-@5 = ~Natürlich bin ich das! Aber nicht alleine! Unserer gibt es viele.~
+@4 = ~Dem mit den vielen Namen. Ich kÃ¶nnte Euch viele seiner Titel nennen, doch Ihr wÃ¼rdet ihn nicht erkennen. Ihr seid kein AuserwÃ¤hlter.~ ~Dem mit den vielen Namen. Ich kÃ¶nnte Euch viele seiner Titel nennen, doch Ihr wÃ¼rdet ihn nicht erkennen. Ihr seid keine AuserwÃ¤hlte.~
+@5 = ~NatÃ¼rlich bin ich das! Aber nicht alleine! Unserer gibt es viele.~
 @6 = ~Hahaha! Ich werde nichts dergleichen tun! Dieser Turm ist unser, und hier wird der Untergang beginnen!~
-@7 = ~Ihr mögt zwar die Hexe getötet haben, doch das wird Euch nicht viel nützen.~
+@7 = ~Ihr mÃ¶gt zwar die Hexe getÃ¶tet haben, doch das wird Euch nicht viel nÃ¼tzen.~
 @8 = ~Denn schon bald werdet Ihr erkennen, dass es keinen Ausweg von dieser Insel und aus der schwarzen Umarmung unseres Herrn gibt!~

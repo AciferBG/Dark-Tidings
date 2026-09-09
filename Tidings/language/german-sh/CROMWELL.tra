@@ -1,12 +1,10 @@
-// Caution: This file is in UTF-8 format because it uses several special characters of non-english languages
-
-@0 = ~Hmmm. Was ist denn das? Eine Klinge mit einer fließenden, geschwungenen Form? Wo hab ich das denn schon einmal gesehen …~
-@1 = ~Aber natürlich. Das ist eine Wasserklinge. Kann ganz schön feucht werden, wenn Ihr die einmal richtig anpackt. Nicht gerade mein Spezialgebiet, aber ich könnte das Schwert dennoch verbessern, wenn Ihr möchtet.~
-@2 = ~Ich brauche dazu noch einen Aquamarin. Dann könnte ich loslegen.~
-@3 = ~Welche Eigenschaften hätte das Schwert, nachdem Ihr es verbessert habt?~
+@0 = ~Hmmm. Was ist denn das? Eine Klinge mit einer flieÃŸenden, geschwungenen Form? Wo hab ich das denn schon einmal gesehenÂ â€¦~
+@1 = ~Aber natÃ¼rlich. Das ist eine Wasserklinge. Kann ganz schÃ¶n feucht werden, wenn Ihr die einmal richtig anpackt. Nicht gerade mein Spezialgebiet, aber ich kÃ¶nnte das Schwert dennoch verbessern, wenn Ihr mÃ¶chtet.~
+@2 = ~Ich brauche dazu noch einen Aquamarin. Dann kÃ¶nnte ich loslegen.~
+@3 = ~Welche Eigenschaften hÃ¤tte das Schwert, nachdem Ihr es verbessert habt?~
 @4 = ~Nein, daran habe ich kein Interesse.~
-@5 = ~Sie hätte zunächst eine mächtigere Verzauberung, was es Euch leichter machen würde, die ganz bösen Buben zu treffen. Außerdem wäre sie gegen Kreaturen, die teilweise im Wasser leben – wie die Sahuagin, vielleicht auch Kuo-Toa – noch effektiver. Die Biester wären ziemlich verdutzt, von solch einer Waffe getroffen zu werden. Das könnte Euch im Kampf zum Vorteil gereichen.~
-@6 = ~Gut, ich komme zurück, wenn ich einen Aquamarin gefunden habe.~
-@7 = ~Mit diesem Aquamarin, den Ihr bei Euch tragt, und 5.000 Goldmünzen könnte ich eine mächtige Klinge für Euch herstellen.~
-@8 = ~Sie hätte zunächst eine mächtigere Verzauberung, was es Euch leichter machen würde, die ganz bösen Buben zu treffen. Außerdem wäre sie gegen Kreaturen, die teilweise im Wasser leben – wie die Sahuagin, vielleicht auch Kuo-Toa – noch effektiver. Die Sahuagin wären ziemlich verdutzt, von solch einer Waffe getroffen zu werden. Das könnte Euch im Kampf zum Vorteil gereichen. Also was ist? Wollen wir loslegen?~
+@5 = ~Sie hÃ¤tte zunÃ¤chst eine mÃ¤chtigere Verzauberung, was es Euch leichter machen wÃ¼rde, die ganz bÃ¶sen Buben zu treffen. AuÃŸerdem wÃ¤re sie gegen Kreaturen, die teilweise im Wasser lebenÂ â€“ wie die Sahuagin, vielleicht auch Kuo-ToaÂ â€“ noch effektiver. Die Biester wÃ¤ren ziemlich verdutzt, von solch einer Waffe getroffen zu werden. Das kÃ¶nnte Euch im Kampf zum Vorteil gereichen.~
+@6 = ~Gut, ich komme zurÃ¼ck, wenn ich einen Aquamarin gefunden habe.~
+@7 = ~Mit diesem Aquamarin, den Ihr bei Euch tragt, und 5.000 GoldmÃ¼nzen kÃ¶nnte ich eine mÃ¤chtige Klinge fÃ¼r Euch herstellen.~
+@8 = ~Sie hÃ¤tte zunÃ¤chst eine mÃ¤chtigere Verzauberung, was es Euch leichter machen wÃ¼rde, die ganz bÃ¶sen Buben zu treffen. AuÃŸerdem wÃ¤re sie gegen Kreaturen, die teilweise im Wasser lebenÂ â€“ wie die Sahuagin, vielleicht auch Kuo-ToaÂ â€“ noch effektiver. Die Sahuagin wÃ¤ren ziemlich verdutzt, von solch einer Waffe getroffen zu werden. Das kÃ¶nnte Euch im Kampf zum Vorteil gereichen. Also was ist? Wollen wir loslegen?~
 @9 = ~Dann lasst uns nachschauen, was Ihr sonst noch so habt.~
