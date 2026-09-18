@@ -1,6 +1,9 @@
 DARK TIDINGS
 VERSION HISTORY:
 
+Version 3.2
+- added Italian translation by Sauler, thank you!
+
 Version 3.1:
 - Correct typo for Chinese
 - fixed German Translation by Shai Hulud

@@ -72,6 +72,7 @@ Available in:
 - Chinese
 - Russian
 - Spanish
+- Italian
 
 ---
 
