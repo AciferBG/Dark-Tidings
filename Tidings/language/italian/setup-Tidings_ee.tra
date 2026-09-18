@@ -1,0 +1,192 @@
+// setup-tidings tra file
+
+// creatures
+@0 = ~Sirine Oscura~
+@1 = ~Guardiano Non morto~
+@2 = ~Forma di Fango~
+@3 = ~Troll d'Ombra~
+@4 = ~Vipera~
+@5 = ~Elementale d'Ombra~
+@6 = ~Voce Oscura~
+@7 = ~~ [AC#DT21C]
+@8 = ~Varrdig~
+@9 = ~Fato della Terra~
+@10 = ~Ombra di <PLAYER1>~
+@11 = ~Ombra di <PLAYER2>~
+@12 = ~Ombra di <PLAYER3>~
+@13 = ~Ombra di <PLAYER4>~
+@14 = ~Ombra di <PLAYER5>~
+@15 = ~Ombra di <PLAYER6>~
+@16 = ~Forma d'Ombra~
+@17 = ~Aspetto di Tharizdun~
+@18 = ~~ [AC#DTTH1]
+@19 = ~~ [AC#DTTH3]
+@20 = ~~ [AC#DTTH1]
+@21 = ~~ [AC#DTTH4]
+@22 = ~~ [AC#DTTH5]
+@23 = ~Jhanex~
+@24 = ~Skara~
+@25 = ~Veggente Nero Brokus~
+@26 = ~Marinaio Ahmer~
+@27 = ~Marinaio Bog~
+@28 = ~Cavaliere della Morte~
+@29 = ~Guardia Terribile~
+@30 = ~Vergol~
+@31 = ~Mastino d'Ombra~
+@32 = ~Thalass~
+@33 = ~Ala Notturna~
+@34 = ~Gracie~
+@35 = ~Darius~
+@36 = ~Molly la Nera~
+@37 = ~Mirmidone Elementale d'Acqua~
+@38 = ~Elementale dell'Acqua~
+@39 = ~Elementale dell'Acqua Minore~
+@40   = ~Melma d'Olio~
+
+// spells
+@100 = ~Dominazione Elementale~
+@101 = ~Aura Gelida~
+@102 = ~Visione Orrenda~
+@103 = ~Protezione dal Bene~
+@104 = ~Apparizione Spaventosa~
+@105 = ~Sguardo Mortale~
+@106 = ~Nube di Nebbia~
+@107 = ~Nascosto nella Nebbia~
+@108 = ~Nube di Nebbia 
+(Alterazione)
+
+Livello: 2
+Raggio d'azione: 27 metri
+Durata: 4 round
+Tempo di lancio: 2
+Area d'effetto: Raggio di 4,5 metri
+Tiro-salvezza: Nessuno
+
+Questo incantesimo crea una fitta nebbia simile nell'aspetto all'incantesimo di 5° livello "Nube Assassina". La nube forma tuttavia una massa turbinante di vapori spettrali giallo-verdastri, delle dimensioni di circa 12 x 6 x 6 metri, che non sono tossici ma impediscono la visuale. Le creature all'interno della nebbia restano accecate per la durata dell'effetto. Inoltre, vi è una probabilità del 50% che le creature nella nebbia non siano individuabili e diventino invisibili per 1 round.~
+@109 = ~Esplosione~
+@110 = ~Aura Oscura~
+@111 = ~Canto della Sirine~
+@112 = ~Ululato~
+@113 = ~Evocare Elementale dell'Acqua~
+@114  = ~Protezione dal Veleno~
+@115  = ~Protezione dal Veleno 
+(Scongiurazione)
+
+Livello: 2
+Raggio d'azione: Tocco
+Durata: 10 round 
+Tempo di lancio: 3
+Area d'effetto: 1 creatura
+Tiro-salvezza: Nessuno
+
+Grazie a questo incantesimo, la creatura scelta diventa immune ai veleni e alle tossine somministrati tramite contatto con la pelle, ingestione, pungiglione, morso o arma. Le tossine di altro tipo continuano a influenzare normalmente la creatura. L'incantesimo non ha inoltre alcun effetto sui veleni già presenti nel corpo al momento del lancio.~
+
+// Script strings
+@1000 = ~La città cerca avventurieri capaci e abbastanza esperti di mare da prendere il largo!~
+@1001 = ~Non c'è nessun avventuriero in questa taverna disposto a svolgere un incarico per la città?~
+@1002 = ~Usa un oggetto~
+@1003 = ~Controllo delle ombre~
+@1004 = ~Questo barile conteneva olio infiammabile. A quanto pare, in passato veniva usato per accendere un fuoco di segnalazione sul tetto. Se vuoi, puoi esaminare il contenitore più da vicino.~
+@1005 = ~Versi un po' d'olio in una bottiglia.~
+@1006 = ~Ora il barile è vuoto.~
+@1007 = ~Il barile è quasi vuoto. Non c'è abbastanza olio per accendere un fuoco di segnalazione. Tuttavia, l'olio combustibile potrebbe essere ancora utile in combattimento. Se vuoi, puoi raccoglierlo in una bottiglia e portarlo con te.~
+@1008 = ~La sostanza d'ombra si dissolve nel nulla tra le tue mani.~ [EFF_E03]
+@1009 = ~Il mattone sembra adattarsi perfettamente alle fondamenta.~
+@1010 = ~Questa parte del muro reca uno strano simbolo che all'improvviso sembra muoversi, appena percettibilmente. A occhio nudo, però, è difficile mettere a fuoco quel punto.~
+
+@1011 = ~Ombra di <PLAYER1>~
+@1012 = ~Ombra di <PLAYER2>~
+@1013 = ~Ombra di <PLAYER3>~
+@1014 = ~Ombra di <PLAYER4>~
+@1015 = ~Ombra di <PLAYER5>~
+@1016 = ~Ombra di <PLAYER6>~
+
+@1017 = ~L'ingresso della torre è bloccato da innumerevoli cirripedi.~
+@1018 = ~Più cerchi di rimuovere i cirripedi con la forza, più sembrano comparirne. Forse esiste un altro modo per liberare l'ingresso.~ [AC#DT01B]
+@1019 = ~La chela di granchio emette per un istante una luce magica; la massa di cirripedi perde coesione e crolla, rivelando l'ingresso.~ [AC#DT01C]
+@1020 = ~L'ingresso della torre è bloccato da innumerevoli cirripedi. La chela di granchio nel tuo inventario comincia improvvisamente a muoversi, come se volesse liberare il passaggio.~ [AC#TTC] 
+
+// Strings in Area ACDT21
+// Earth Info Trigger:
+@1021 = ~Una grande quantità di fango e terra è sparsa intorno a questa pietra runica. Grazie alle tue conoscenze druidiche, ti rendi conto che questa terra non proviene da questo luogo ed emana un'aura innaturale.~
+@1022 = ~Una grande quantità di fango e terra è sparsa intorno a questa pietra runica. Ti rendi conto che questa terra non proviene da questo luogo.~
+@1023 = ~Una grande quantità di fango e terra è sparsa intorno a questa pietra runica.~
+
+// Air Info Trigger:
+@1024 = ~Da queste strane formazioni rocciose fluisce nella stanza una grande quantità d'aria. Sembra molto pura e concentrata, ma di tanto in tanto porta con sé odore di marcio e zolfo.~
+
+// Water Info Trigger
+@1025 = ~Acqua proveniente da una fonte sconosciuta filtra continuamente intorno a questa pietra runica. Ha uno strano colore, sembra contaminata ed emana un odore sgradevole.~
+
+// Fire Info Trigger
+@1026 = ~Da questa pietra runica emana un calore innaturale.~
+
+// Runestone Info Trigger
+@1030 = ~Su questa pietra runica è incisa una lunga iscrizione in lingua comune. Se vuoi, puoi leggerla.~
+@1031 = ~"E l'Antico Occhio Elementale generò quattro figli.
+Il primo voleva divorare ogni cosa.
+Per estinguerlo creò il secondo, ma questi non poteva assumere forma. 
+Allora creò il terzo, ma questi non poteva muoversi. 
+Infine creò il quarto, ma questi evaporò nel nulla. 
+Allora il Dio Oscuro comprese l'imperfezione di tutte le cose e giurò di riportare ogni cosa al suo stato originario di oscurità totale."~
+@1032 = ~La pietra runica è stata danneggiata dall'esplosione di energia magica al punto che l'iscrizione non può più essere decifrata.~
+
+// Shadowstone Info Trigger
+@1035 = ~Da questa strana pietra emana un'aura sacrilega. Nelle vicinanze si odono borbottii e sussurri incomprensibili, mentre ai suoi bordi la luce sembra rifrangersi nel nero più profondo.~
+@1036 = ~Dopo aver disattivato le quattro rune, la stanza diventa più fredda e opprimente. Ora dalla pietra proviene un sussurro chiaramente percepibile.~
+@1037 = ~Da questa strana pietra continua a emanare un'aura sinistra.~ 
+
+/// Fire Sigil Tigger
+@1040 = ~Su questa pietra è inciso uno strano segno. Emana un calore intenso. Hai la sensazione che basti toccarlo per cambiarne lo stato.~
+@1041 = ~Tocchi con cautela il segno. Un calore bruciante ti attraversa, ma subito dopo la runa si spegne e diventa fredda.~
+@1042 = ~La runa è spenta e non sembra avere più alcuna funzione.~
+
+// Water Sigil Tigger
+@1050 = ~Su questa pietra è inciso uno strano segno. Sembra molto umido. Hai la sensazione che basti toccarlo per cambiarne lo stato.~
+@1051 = ~Quando tocchi il segno, una brezza umida attraversa la stanza. Sembra che i segni debbano essere toccati in un ordine preciso... e hai fatto la scelta sbagliata...~
+@1052 = ~Tocchi con cautela il segno. L'acqua che bagnava la runa scompare. Sembra che tu abbia disattivato il segno.~
+@1053 = ~La runa si è asciugata e non sembra avere più alcuna funzione.~
+
+// Earth Sigil Trigger
+@1060 = ~Su questa pietra è inciso un segno a forma di spirale frastagliata. È ricoperto da fango che emette uno strano bagliore. Hai la sensazione che basti toccarlo per cambiarne lo stato.~
+@1061 = ~Quando tocchi il segno, una forte vibrazione attraversa la stanza. Sembra che i segni debbano essere toccati in un ordine preciso... e hai fatto la scelta sbagliata...~
+@1062 = ~Tocchi con cautela il segno. Il fango che ricopriva la runa scompare. Sembra che tu abbia disattivato il segno.~
+@1063 = ~La runa è pulita e non sembra avere più alcuna funzione.~
+
+// Air Sigil Trigger
+@1070 = ~Su questa pietra è inciso un segno a forma di spirale frastagliata. Hai la sensazione che basti toccarlo per cambiarne lo stato.~
+@1071 = ~Quando tocchi il segno, dal sottosuolo erompono gas velenosi giallastri. Sembra che i segni debbano essere toccati in un ordine preciso... e hai fatto la scelta sbagliata...~
+@1072 = ~Tocchi con cautela il segno. Sembra che tu lo abbia disattivato.~
+@1073 = ~La runa è disattivata e non sembra avere più alcuna funzione.~
+
+// Ritual in Area ACDT22
+@1080 = ~Hai lanciato il primo incantesimo del rituale.~
+@1081 = ~Hai lanciato il secondo incantesimo del rituale.~
+@1082 = ~Hai lanciato il terzo incantesimo del rituale.~
+
+@1085 = ~La magia che hai lanciato si scarica con un'esplosione e la pietra va in frantumi. Poi, all'improvviso, cala il silenzio. Ora la stanza sembra molto più luminosa.~
+
+// Crystal chamber ACDT13
+
+@1090 = ~Noti un alloggiamento vuoto al centro di questo congegno di cristallo. Con ogni probabilità, per attivare il faro bisogna inserirvi un oggetto.~
+@1091 = ~Nessuno degli oggetti nel tuo inventario sembra adatto ad accendere il faro.~
+@1092 = ~Inserisci il Cristallo Luminoso nell'alloggiamento e, attraverso le sue molte sfaccettature, la luce viene riflessa mille volte e proiettata verso l'alto, all'aria aperta. Il grande cristallo sul tetto dovrebbe ora tornare a risplendere di una luce intensa, visibile da grande distanza.~
+@1093 = ~Se rimetti il cristallo nell'alloggiamento, non potrai più rimuoverlo. Dovresti riflettere attentamente su cosa fare.~
+
+@1098 = ~Spesse coltri d'ombra nerissima ti impediscono di vedere. Se l'uscita è da queste parti, al momento non riesci a scorgerla.~
+
+//cutscene in ACDT01
+@1100 = ~Guardate! C'è una bambina!~
+@1101 = ~Ma che...!~
+@1102 = ~Per Baelros! È una megera marina!~
+
+// Oil barrels in ACDT15
+
+@1504 = ~Questo barile conteneva olio infiammabile. A quanto pare, in passato veniva usato per accendere un fuoco di segnalazione. Se vuoi, puoi esaminare il contenitore più da vicino.~
+@1505 = ~Versi un po' d'olio in una bottiglia.~
+@1506 = ~Ora il barile è vuoto.~
+@1507 = ~Il barile è quasi vuoto. Non c'è abbastanza olio per accendere un fuoco di segnalazione. Tuttavia, l'olio combustibile potrebbe essere ancora utile in combattimento.~
+
+// New for v2.2
+
+@1510 = ~Dark Tidings~

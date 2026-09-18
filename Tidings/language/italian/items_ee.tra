@@ -1,0 +1,237 @@
+// encoding utf-8
+
+@2000 = ~Anello del Sangue Purissimo~
+@2001 = ~Divenire un lich è un'impresa pericolosa, come ben sapeva Arcturus di Shoonach, aspirante lich. Per proteggersi dalla pozione letale necessaria alla trasformazione, forgiò un anello nel quale legò il sangue di tre giganti delle tempeste, adornandolo con un rubino tagliato da un gioielliere nano. Nonostante i suoi sforzi, Arcturus fallì e, poco dopo la sua morte, un sacerdote di Kelemvor sfilò l'anello dalla sua mano senza vita. Sebbene non avesse salvato il proprio creatore, l'anello si rivelò preziosissimo per la Chiesa di Ilmater, contribuendo alla cura dei malati e dei moribondi. Oggi rimane un potente simbolo di purezza, salute e vitalità in tutto Faerûn, bramato da molti, ma nessuno osa più servirsene per tentare di divenire un lich.
+
+STATISTICHE:
+
+– Costituzione: +1~
+@2002 = ~Mantello Nero~
+@2003 = ~Velo dell'Oscurità Soffocante~
+@2004 = ~Questo mantello è oscuro e sinistro.~
+@2005 = ~Questo mantello è tessuto con un lino vecchio e pesante che appare stranamente sfilacciato lungo i bordi, quasi come se i contorni dell'indumento stessero svanendo da questo mondo. Offre protezione contro molti tipi di danno elementale e contro gli attacchi convenzionali, ma chi lo indossa deve pagarne un prezzo elevato: se <PRO_HESHE> fallisce un tiro-salvezza contro Morte, <PRO_HESHE> muore nel tentativo di indossarlo. Anche se il tiro-salvezza riesce, tuttavia, <PRO_HESHE> perde comunque parte della propria forza vitale.
+  Il mantello odora di terra umida e tetra e sembra molto antico: forse risale a un'epoca in cui persino gli dèi dei Reami erano ancora giovani e su Toril regnavano esseri più primordiali. La storia dell'indumento è oscura quanto chi lo indossa.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Classe Armatura: +2
+– Tiri-salvezza: +1
+– Resistenza all'Elettricità: +30%
+– Resistenza al Freddo: +30%
+– Resistenza al Fuoco: +30%
+– Punti Ferita: -10
+– Chi indossa il mantello deve superare un tiro-salvezza contro Morte; in caso contrario, <PRO_HESHE> muore all'istante.
+
+Peso: 3~
+@2006 = ~Frecce dell'Oscurità~
+@2007 = ~Quando questa freccia colpisce un nemico, il bersaglio resta accecato per 1 round se fallisce un tiro-salvezza contro Incantesimi.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio deve superare un tiro-salvezza contro Incantesimi o resta accecato per 1 round
+
+Danno: 1d6 (proiettile)
+Dispositivo: Arco
+
+Peso: 0~
+@2008 = ~Frecce della Malattia~
+@2009 = ~Queste frecce sono ricoperte dal sangue coagulato di una creatura sconosciuta. Chi viene colpito da una di esse contrae una malattia.
+
+STATISTICHE:
+
+Abilità in combattimento:
+– Il bersaglio contrae una malattia ed è rallentato per 4 round
+
+Danno: 1d6 (proiettile)
+Dispositivo: Arco
+
+Peso: 0~
+@2010 = ~Perla Nera~
+@2011 = ~Le perle constano di vari strati di aragonite formatisi attraverso un lungo e tormentoso processo attorno a granelli di sabbia o altri agenti irritanti all'interno di ostriche o altri molluschi. La perla risultante ha una profonda e ricca lucentezza. Questa è una perla nera, una delle varietà più rare e quindi più preziose. Non possiede proprietà magiche, ma può essere venduta a buon prezzo.~
+/*
+@2012 = ~Pozione di Dissolvi Magie~
+@2013 = ~Consumando questa pozione, tutti gli effetti magici sul bevitore vengono immediatamente dissolti, siano essi benefici o nocivi.~
+*/
+@2014 = ~Pozione di Guarigione Avvelenata~
+@2015 = ~Questa pozione ha l'aspetto, l'odore e il sapore di una pozione di guarigione o di un'altra mistura benefica. In realtà è un veleno mascherato dalla magia d'illusione. Un incantesimo Identificare ne rivela la vera natura. Se la si beve comunque, si subiscono danni da veleno ogni secondo per 3 round.~
+@2016 = ~Mattone d'Ombra~
+@2017 = ~Questo mattone è pervaso dal nero più profondo. I suoi bordi sembrano dissolversi. È freddo al tatto e leggero come una piuma.~
+@2018 = ~Libro dei Rituali~
+@2019 = ~Questo libro, la cui copertina è ornata da un sole luminoso, appare antico ma ben conservato. Ti è stato affidato da un guardiano non morto del faro, che ti ha incaricato di usarlo per sigillare un portale verso il Piano delle Ombre situato sotto il faro.
+
+Il passo fondamentale riguardante il rituale recita:
+"Per scacciare Tharizdun, l'Antico Occhio Elementale, dal mondo della luce, un incantatore arcano o divino deve seguire questi passaggi presso il luogo corrotto sotto il faro. 
+
+Collocare il Cristallo Luminoso sotto l'altare sacrilego e fare in modo che <PRO_HESHE> resti al centro della stanza, sia che si tratti di un mago o di un sacerdote. Il primo incantesimo che deve essere lanciato è 'Protezione dal Male', per tenere lontani dal luogo gli elementi malvagi. Il secondo incantesimo è 'Visione del Vero', per dissipare le malvagie illusioni di Tharizdun. Infine, chi compie il rituale deve lanciare 'Dissolvi Magie' per spezzare i legami magici che alimentano di energia il luogo sacrilego. 
+
+Compiendo il rituale, gli oscuri sussurri di Tharizdun sotto il faro verranno messi a tacere per sempre. Il Cristallo Luminoso potrebbe essere distrutto durante il processo, ma questo è il sacrificio necessario per bandire ancora una volta questo oscuro male dal mondo della luce."~
+@2020 = ~L'Ultima Era dell'Eterna Oscurità~
+@2021 = ~Questo tomo è contrassegnato da una peculiare spirale frastagliata ed è colmo di rune arcane e parole appartenenti ad antiche lingue ormai dimenticate.
+Soltanto poche righe sono scritte in una grafia e in una lingua che puoi comprendere:
+
+"Colui che Porta la Fine, l'Antico Occhio Elementale, il Dio Oscuro: questi e altri nomi indicano il nostro eccelso Maestro, che per mille anni ha atteso il proprio momento, imprigionato da forze invidiose. Ora che divinità inferiori come Tyr e Lathander temono il Suo ritorno, spetta a noi smantellare il loro ordine e annunciare l'era finale. La fine si avvicina e il nostro sacro dovere è chiaro: instaurare il dominio dell'Eterna Oscurità e ridurre in rovina le opere dei falsi dèi."~
+@2022 = ~Elmo del Cultista~
+@2023 = ~Questo elmo è meno una protezione che il copricapo cerimoniale di un culto a te sconosciuto. È finemente decorato e di colore viola scuro. Sul bordo è ricamato un sottile motivo. In lingua comune vi è scritto: "I fedeli indossino l'elmo, affinché la via dell'Antico Occhio Elementale si riveli loro."~
+@2024 = ~Questo elmo è meno una protezione che il copricapo cerimoniale di un culto a te sconosciuto. È finemente decorato e di colore viola scuro.~
+@2025 = ~Nota~
+@2026 = ~Il tuo compito è recuperare i naufraghi ammaliati dalle sirine. Scortali al tempio, dove li attendono i servitori addetti ai sacrifici. Le sirine e i troll sembrano risentire di questo ambiente alternativo e si stanno lentamente trasformando in versioni d'ombra di se stessi. Forse, in questo modo, potrebbero persino esserci più utili.
+- Sognatore del Fato Vergol.~
+@2027 = ~Nota di Brokus~
+@2028 = ~Veggente Nero Brokus, a te, uno dei miei servitori più fedeli, affido il compito più importante della nostra sacra missione. Passerò dall'altra parte insieme agli altri Veggenti Neri. Assicurati che i troll, le sirine e la megera restino dalla nostra parte. I naufraghi sopravvissuti devono essere ammaliati dalle sirine il più rapidamente possibile e condotti dall'altra parte come sacrifici. 
+
+Qualora degli intrusi sbarcassero sull'isola, sigilla il passaggio per impedire che venga scoperto e inducili a credere che dietro ogni cosa vi sia una megera marina.
+
+  Se dovrai sigillare nuovamente il passaggio, procedi in questo modo: 
+  Distruggi la pietra d'ombra per chiudere il passaggio segreto. In seguito potrai generare facilmente una nuova pietra d'ombra nella stanza del rituale. Chiudi a chiave la porta della cantina e nascondi la chiave, preferibilmente nel tuo baule. Fa' in modo che la megera sigilli la torre dall'esterno con la sua immonda magia. Non dimenticare di attivare le trappole nella torre! Quando il pericolo sarà passato, dovrai ripetere il rituale per ottenere una nuova pietra d'ombra. Ricorda che devi indossare l'elmo del culto per vedere i contorni della porta segreta.
+  
+  Distruggi questo messaggio dopo averlo letto.
+  - Sognatore del Fato Vergol~
+@2029 = ~Questo è il nostro credo, il nostro voto più profondo:
+  "La luce deve essere spenta, la perfezione distrutta, l'ordine dissolto e lo spirito smembrato."
+  
+  Allora, da qualche parte nel nulla, là dove non esistono né tempo né spazio, il possente essere si agita e tenta di destarsi. Allora è giunto il tempo dell'oscurità più nera di tutte.~
+@2030 = ~"Dove vi è molta luce, vi è anche molta ombra."~
+@2031 = ~Chela di Granchio~
+@2032 = ~Questa chela, alterata dalla magia, apparteneva un tempo a un granchio gigante. Grazie a questo oggetto dovrebbe essere possibile aprire passaggi ostruiti da ogni sorta di organismo marino.~
+@2033 = ~Sostanza Nera~
+@2034 = ~Sostanza d'Ombra~
+@2035 = ~I bordi di questa sostanza friabile sembrano dissolversi e perdersi nelle ombre.~
+@2036 = ~Questi frammenti sono resti di materia d'ombra. Sembrano provenire da un oggetto più grande.~
+@2037 = ~Dentiera~
+@2038 = ~L'Ultima Risata~
+@2039 = ~Questa dentiera sembra essere stata intagliata da ossa animali.~
+@2040 = ~Questa è la dentiera di Ormond Dante, un celebre pirata che solcò la Costa della Spada circa un secolo fa. Gravemente segnato dallo scorbuto, negli ultimi anni della sua vita commissionò questi denti, intagliati nell'osso di balena, a una manifattura gnomesca. Il mago di bordo vi pose alcuni incantamenti, ma neppure la magia riuscì a fare nulla contro l'alito rancido e l'aspetto raccapricciante del capitano. Il pirata era noto per la sua risata fragorosa nelle situazioni più disperate, perciò non sorprende che la dentiera possieda la capacità di turbare per qualche tempo i nemici a portata d'orecchio.
+
+STATISTICHE:
+
+Abilità durante l'uso: 
+– Carisma: -2
+– Immunità a Charme e Paura
+
+Abilità attivabili:
+– Risata di Ormond una volta al giorno: tutti i nemici a portata d'orecchio subiscono una penalità di -2 a tutti i tiri (compresi THAC0 e tiri-salvezza) per 5 round. Non è concesso alcun tiro-salvezza contro gli effetti di questa capacità.
+
+Peso: 1~
+@2041 = ~Chiave del Baule di Brokus~
+@2042 = ~Questa chiave è finemente lavorata e sembra appartenere a un baule.~
+@2043 = ~Chiave della Cantina~
+@2044 = ~Una chiave verdastra che sembra essere rimasta esposta all'umidità per molto tempo.~
+@2045 = ~Diario di Brokus~
+@2046 = ~
+3 Tarsakh 1369
+Irphong è nostra! Siamo sbarcati sull'isola. Una tribù di sirine si era stabilita nelle caverne, ma ha giurato fedeltà al nostro Signore Oscuro dopo che ne abbiamo uccise due. Possono ancora esserci utili. Alcuni stolti si sono messi subito in cerca di tesori. Come se potesse esserne rimasto qualcosa dopo tutti i secoli in cui l'isola è rimasta disabitata!
+
+12 Tarsakh
+Il Sognatore del Fato Vergol ha evocato sull'isola un gruppo di troll marini per tenere lontani i pirati. Anche la megera è arrivata e si è sistemata nella parte alta dell'isola. Non dovremmo guardarla, altrimenti la sua maledizione della debolezza ci colpirà. Il suo intruglio è piuttosto utile. Per la maggior parte del tempo vaga per l'isola con l'aspetto di una bambina. Tutti cercano disperatamente l'ingresso verso l'altra parte, ma non abbiamo trovato nulla.
+
+20 Tarsakh
+Abbiamo trovato il portale verso l'altra parte! Era lì da sempre, proprio davanti ai nostri occhi! Gli antichi cultisti si sono impegnati molto per nasconderlo agli sguardi indiscreti. Se si colloca l'oggetto appropriato nel nascondiglio e si indossa l'elmo del nostro culto, il passaggio appare chiaramente.
+
+1 Mirtul
+Gli altri hanno rimosso il Cristallo Luminoso dall'alloggiamento del faro all'ultimo piano e lo hanno portato con sé attraverso il portale, dall'altra parte. D'ora in poi dovrò condurre laggiù personalmente, come sacrificio, ogni naufrago che approderà sull'isola. Uno ogni tre spetterà ai troll, alla megera e alle sirine. Io dovrò restare qui, nascosto. Lasciamo che le navi di passaggio credano che dietro ogni cosa vi siano la megera marina e le sirine.
+
+3 Mirtul
+Il Sognatore del Fato Vergol è ancora impegnato a completare il rituale. Ci servono altre vittime! Ormai le navi evitano l'isola e tutti cominciano a diventare inquieti...
+
+4 Mirtul
+Sento la follia impadronirsi di me. È forse il tocco del Dio che tanto bramiamo? Non lo so...
+~
+@2047 = ~Visioni di Vergol~
+@2048 = ~L'Incatenato, il Dio Imprigionato, l'Oscuro...
+... mi chiama! 
+
+All'inizio i miei sogni erano confusi e indistinti, ma ora è come se un'ombra mi fosse caduta dagli occhi. Quale ironia! Finalmente la nostra cellula del culto ha uno scopo. Esiste un'isola solitaria, molto a ovest della nostra patria, la Chessenta. Lì, in tempi antichi, si adorava il nostro Signore Tharizdun. 
+
+Nelle generazioni successive il suo culto venne proibito e i numerosi sacrifici offerti al nostro Signore sulle secche al largo dell'isola cessarono. Quegli stolti arrivarono persino a erigere sull'isola un faro magico per contrastare il Signore delle Ombre. 
+
+La missione che il nostro Signore mi ha affidato in sogno è semplice: rimuovere il cristallo magico del faro, spezzare il sigillo che chiude l'antico ingresso al piano del nostro Signore, offrire tutti i naufraghi in sacrificio all'Antico Occhio Elementale, profanando così il faro, e infine spezzare i vincoli che impediscono al nostro Dio di rientrare nel mondo.
+
+Allora, finalmente, lo sguardo dell'Antico Occhio Elementale, il nostro Signore Tharizdun, avvolgerà ancora una volta ogni cosa nell'eterna oscurità e garantirà a noi, i suoi servitori più fedeli, un posto al suo fianco.
+
+~
+@2049 = ~Simbolo sacro~
+@2050 = ~Simbolo sacro di Vergol~
+@2051 = ~Sembra essere il simbolo sacro di una divinità a te sconosciuta.~
+@2052 = ~Il simbolo raffigura un'entità chiamata "Tharizdun". Numerose leggende narrano di questo essere, imprigionato in un luogo sconosciuto prima ancora della creazione del mondo come lo conosci. Tuttavia, aspetti più deboli di Tharizdun sembrano ancora manifestarsi in varie parti del mondo, nel tentativo di indurre i propri adoratori a liberare il vero Tharizdun.~
+@2053 = ~Boccia di Bronzo~
+@2054 = ~Questa boccia è fatta di bronzo. Sui bordi vi sono leggere macchie, come se fosse stata colmata d'acqua innumerevoli volte.~ 
+@2055 = ~Questa magica scodella contiene un grande potere che conferisce al suo possessore un certo grado di controllo sugli elementali dell'acqua. Come succede con tutte le forze elementali, questo controllo può essere utilizzato nel bene e nel male, per rispettare o per sovvertire l'ordine. Si consiglia vivamente di essere cauti nel trattare con queste creature.
+
+STATISTICHE:
+
+Abilità attivabili:
+– Evoca un elementale dell'acqua una volta al giorno per una durata di cinque minuti. Il potere dell'elementale evocato dipende dal livello dell'incantatore:
+  Livello da 8 a 11: viene evocato un elementale dell'acqua minore da 8 DV.
+  Livello da 12 a 15: viene evocato un elementale dell'acqua da 12 DV.
+  Livello 16 e superiore: viene evocato un elementale dell'acqua maggiore da 16 DV~
+@2056 = ~Cristallo Luminoso~
+@2057 = ~Questo è il Cristallo Luminoso che attiva il bagliore magico all'ultimo piano del faro di Irphong. Le sue origini sono state dimenticate nel corso dei millenni. Sembra essere più antico dei primi imperi umani delle Terre Centrali. Il suo impiego come fonte di luce per il faro di Irphong risale all'epoca dell'Impero Shoon, quando si tentava di risolvere con la magia la maggior parte dei problemi della vita.~
+@2058 = ~Nube di Nebbia~
+@2059 = ~Nube di Nebbia 
+(Alterazione)
+
+Livello: 2
+Raggio d'azione: 27 metri
+Durata: 4 round
+Tempo di lancio: 2
+Area d'effetto: Raggio di 4,5 metri
+Tiro-salvezza: Nessuno
+
+Questo incantesimo crea una fitta nebbia simile nell'aspetto all'incantesimo di 5° livello "Nube Assassina". La nube forma tuttavia una massa turbinante di vapori spettrali giallo-verdastri, delle dimensioni di circa 12 x 6 x 6 metri, che non sono tossici ma impediscono la visuale. Le creature all'interno della nebbia restano accecate per la durata dell'effetto. Inoltre, vi è una probabilità del 50% che le creature nella nebbia non siano individuabili e diventino invisibili per 1 round.~
+@2060 = ~Lama d'Acqua +2~
+@2061 = ~Questa spada lunga ha una forma sinuosa e ricurva. Al pomolo è fissata un'impugnatura squadrata di colore verde-azzurro che, come il resto dell'arma, rivela il suo legame elementale con l'acqua. Quando la spada viene impugnata, chi la porta è protetto dal freddo. Inoltre, una volta al giorno <PRO_HESHE> può scagliare dalla lama un getto d'acqua pura, infliggendo 3d6 punti di danno contundente a chiunque si trovi nell'area d'effetto entro una distanza di 15 metri.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al Freddo: +40%
+
+Abilità attivabili:
+– Può scagliare una volta al giorno un getto d'acqua che infligge 3d6 punti di danno in un'area conica lunga 15 metri.
+
+THAC0: +2
+Danno: 1d8+2 
+Tipo di Danno: Tagliente
+Fattore-velocità: 3
+Tipo di Competenza: Spada Lunga
+Tipo: A una mano
+Richiede:
+Forza 5
+ 
+Peso: 3~
+@2062 = ~Protezione dal Veleno~
+@2063 = ~Protezione dal Veleno 
+(Scongiurazione)
+
+Livello: 2
+Raggio d'azione: Tocco
+Durata: 10 round 
+Tempo di lancio: 3
+Area d'effetto: 1 creatura
+Tiro-salvezza: Nessuno
+
+Grazie a questo incantesimo, la creatura scelta diventa immune ai veleni e alle tossine somministrati tramite contatto con la pelle, ingestione, pungiglione, morso o arma. Le tossine di altro tipo continuano a influenzare normalmente la creatura. L'incantesimo non ha inoltre alcun effetto sui veleni già presenti nel corpo al momento del lancio.~
+@2064 = ~Lama d'Acqua +3~
+@2065 = ~Questa spada lunga ha una forma sinuosa e ricurva. Al pomolo è fissata un'impugnatura squadrata di colore verde-azzurro che, come il resto dell'arma, rivela il suo legame elementale con l'acqua. Quando la spada viene impugnata, chi la porta è protetto dal freddo. Inoltre, una volta al giorno <PRO_HESHE> può scagliare dalla lama un getto d'acqua pura, infliggendo 4d6 punti di danno contundente a chiunque si trovi nell'area d'effetto entro una distanza di 15 metri.
+
+STATISTICHE:
+
+Abilità durante l'uso:
+– Resistenza al Freddo: +50%
+– Se un sahuagin viene colpito dalla lama, resta stordito per 1 round
+
+Abilità attivabili:
+– Può scagliare una volta al giorno un getto d'acqua che infligge 4d6 punti di danno in un'area conica lunga 15 metri.
+
+THAC0: +3, +5 contro kuo-toa e sahuagin
+Danno: 1d8+3, +5 contro kuo-toa e sahuagin 
+Tipo di Danno: Tagliente
+Fattore-velocità: 3
+Tipo di Competenza: Spada Lunga
+Tipo: A una mano
+Richiede:
+Forza 5
+ 
+Peso: 3~

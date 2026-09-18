@@ -1,0 +1,113 @@
+// Journal Entries
+
+// Quest start
+
+@10000 = ~Oscuri Presagi
+
+Devo recarmi sull'isola di Irphong per scoprire la causa dello spegnimento del fuoco magico del faro. Un mago di nome Thalass mi aspetta nel Distretto dei Moli, presso il piccolo faro, insieme a un equipaggio pronto a imbarcarsi per il breve viaggio verso l'isola.~
+
+@10001 = ~Oscuri Presagi
+
+Poco dopo lo sbarco sull'isola di Irphong, un gruppo di troll marini, apparentemente guidati da una megera marina, ci ha assaliti. Poiché tutti i marinai sono morti, devo trovare un altro modo per lasciare l'isola. Soltanto un marinaio esperto sarebbe in grado di condurre la barca rimasta intatta attraverso le secche al largo dell'isola e riportarla ad Athkatla. Se però riuscissi a rimettere in funzione il faro, forse altre navi mi noterebbero e potrebbero portarmi via dall'isola. Devo quindi fare il possibile per riaccendere la sua luce magica. Ma prima devo scoprire perché si è spenta.~ 
+
+@10002 = ~Oscuri Presagi
+
+Ha funzionato! La luce magica del faro ha attirato l'attenzione di una nave di passaggio e un gruppo di marinai è sbarcato sull'isola. Mi riporteranno ad Athkatla e mi aspettano presso la barca che mi ha portato qui.~
+
+@10003 = ~Oscuri Presagi
+
+Di nuovo ad Athkatla. Ora devo dirigermi al Dono del Mare e riscuotere dal mago Thalass la ricompensa che mi spetta.~
+
+@10004 = ~Oscuri Presagi
+
+La mia avventura sull'isola di Irphong si conclude con la ricompensa ricevuta dal mago Thalass. Non metterò tanto presto di nuovo piede su un'isola maledetta!~
+
+@10010 = ~Accesso alla torre
+
+L'ingresso del faro di Irphong è bloccato da una moltitudine di cirripedi. Devo trovare qualcosa che mi permetta di entrare, perché né la magia né le armi riescono a liberare il passaggio.~
+
+@10011 = ~La chela di granchio
+
+Tra gli averi di chi guidava le sirine ho trovato la chela di un granchio gigante. Anche se non so ancora a che cosa serva, sono certo che non conservasse un simile oggetto senza motivo.~ ~La chela di granchio
+
+Tra gli averi di chi guidava le sirine ho trovato la chela di un granchio gigante. Anche se non so ancora a che cosa serva, sono certa che non conservasse un simile oggetto senza motivo.~
+
+@10012 = ~Accesso alla torre
+
+Credo di avere qualcosa che potrebbe aiutarmi ad aprire l'ingresso della torre: la chela di un granchio gigante.~
+
+@12000 = ~L'"altra parte"
+
+All'interno del faro ho trovato una nota appartenuta a uno strano cultista, nella quale si parla di un'"altra parte" all'interno della torre. La nota menziona anche un "mattone d'ombra" e un rituale. Dovrei cercare altri indizi per capire di che cosa si tratta.~
+
+@12001 = ~L'"altra parte"
+
+Nel sotterraneo del faro ho trovato un mattone fatto d'ombra. Sembra destinato a essere inserito da qualche parte in un muro.~
+
+@12002 = ~L'"altra parte"
+
+Ho trovato un buon punto in cui collocare il mattone d'ombra. È un buon inizio nella ricerca dell'"altra parte".~
+
+@12003 = ~L'"altra parte"
+
+All'interno del faro ho trovato un vecchio passaggio che contiene una sorta di portale. Potrebbe condurmi all'"altra parte"? C'è un solo modo per scoprirlo.~
+
+@12004 = ~L'"altra parte"
+
+Ho attraversato il portale e ora mi trovo in una strana versione parallela e avvolta dalle ombre dell'isola di Irphong.~
+
+@13000 = ~Il Cristallo Luminoso
+
+All'ultimo piano del faro, un congegno sembra controllarne l'illuminazione. Ma manca il cristallo necessario al suo funzionamento. Se riuscissi a trovarlo, potrei riattivare il faro.~
+
+@13001 = ~Il Cristallo Luminoso
+
+Ho trovato il Cristallo Luminoso su un antico altare nel Piano delle Ombre. Ora devo rimetterlo nell'alloggiamento del faro, all'ultimo piano.~
+
+@13010 = ~Il Cristallo Luminoso
+
+Il Cristallo Luminoso è tornato al suo posto. Se lo desidero, posso osservare dal tetto il bagliore del faro. Spero che qualche nave di passaggio mi noti presto, così da poter finalmente lasciare l'isola.~
+
+@18000 = ~Il guardiano non morto
+
+In una piccola stanza nella parte nord-orientale dell'isola di Irphong ho incontrato un fantasma che sostiene di essere stato l'ultimo guardiano del faro. Continuava a ripetere che avrei dovuto incontrarlo "dall'altra parte", qualunque cosa significhi.~ 
+
+@18001 = ~Il guardiano non morto
+
+In un'oscura realtà alternativa dell'isola di Irphong ho incontrato un fantasma che sostiene di essere stato l'ultimo guardiano del faro. Mi ha chiesto di recuperare il cristallo del faro dal tempio di un dio malvagio, nella parte orientale dell'area, e poi di tornare da lui.~ 
+
+@18002 = ~Il guardiano non morto
+
+Ho incontrato di nuovo, in un'oscura realtà alternativa dell'isola di Irphong, il fantasma che sostiene di essere stato l'ultimo guardiano del faro. Mi ha chiesto di recuperare il Cristallo Luminoso dal tempio di un dio malvagio, nella parte orientale dell'area, e poi di tornare da lui.~
+
+@18010 = ~Il rituale
+
+Dopo aver recuperato il Cristallo Luminoso dal tempio, il guardiano non morto è apparso di nuovo. Mi ha chiesto di compiere un rituale nella cantina sotto il faro, dove si trova quella strana pietra, per arrestare la magia nera che emana dal luogo. Per farlo devo usare anche il cristallo. Purtroppo non è certo che il Cristallo Luminoso sopravviva al rituale. Poiché il cristallo serve anche a far risplendere di nuovo il faro, devo valutare attentamente se vale la pena correre il rischio. Dopotutto, il faro sembra essere l'unico modo per attirare l'attenzione di altre navi e riuscire a lasciare l'isola. Il fantasma ha inoltre detto che posso incontrarlo di nuovo sull'isola di Irphong, nella sua stanza a est, poiché esiste contemporaneamente su entrambi i piani.~ 
+
+@18011 = ~Il rituale
+
+Dopo aver recuperato il Cristallo Luminoso dal tempio, è apparso il guardiano non morto che sostiene di essere stato l'ultimo guardiano del faro. Mi ha chiesto di compiere un rituale nella cantina sotto il faro, dove si trova quella strana pietra, per arrestare la magia nera che emana dal luogo. Per farlo devo usare anche il cristallo. Purtroppo non è certo che il Cristallo Luminoso sopravviva al rituale. Poiché il cristallo serve anche a far risplendere di nuovo il faro, devo valutare attentamente se vale la pena correre il rischio. Il bagliore del faro sembra infatti essere l'unico modo per attirare altre navi e lasciare l'isola. Il fantasma ha inoltre detto che posso incontrarlo anche sull'isola di Irphong, in una stanza a est, poiché esiste contemporaneamente su entrambi i piani.~
+
+@18012 = ~Il rituale
+
+Devo decidere se compiere il rituale nel sotterraneo del faro con l'aiuto del Cristallo Luminoso oppure limitarmi a collocare il cristallo nell'alloggiamento e lasciare l'isola. Purtroppo non è certo che il Cristallo Luminoso sopravviva al rituale. Poiché il cristallo serve anche a far risplendere di nuovo il faro, devo valutare attentamente se vale la pena correre il rischio. Il bagliore del faro sembra infatti essere l'unico modo per attirare l'attenzione di altre navi e riuscire ad andarmene dall'isola.~
+
+@18013 = ~Il rituale
+
+Ho collocato il cristallo nell'alloggiamento senza completare il rituale nella cantina. Poiché ora non può più essere rimosso, non sono più in grado di compiere il rituale. Dovrei cercare un modo per lasciare l'isola.~
+
+@18014 = ~Il rituale
+
+Ho completato il rituale. Spero di poter recuperare il Cristallo Luminoso e collocarlo nell'alloggiamento del faro, all'ultimo piano.~
+
+@18015 = ~Il rituale
+
+Il Cristallo Luminoso sembra essere sopravvissuto indenne al rituale. Ora devo collocarlo nell'alloggiamento del faro, all'ultimo piano.~
+
+@18016 = ~Il rituale
+
+Ho neutralizzato il luogo sacrilego sotto il faro e rimesso il cristallo nel suo alloggiamento. In questo modo, le oscure ombre che incombevano sull'isola dovrebbero essere svanite una volta per tutte.~
+
+
+ 
+
